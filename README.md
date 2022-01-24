@@ -10,7 +10,7 @@ no longer widely supported.
 
 - Collect original media files and content from the Flash-based
   interactive exhibit.
-- Verify complete via running a Flash Emulator (e.g., [Ruffle](https://ruffle.rs/)
+- Verify complete via running a Flash Emulator (e.g., [Ruffle](https://ruffle.rs/)).
 - Decompile the elements from the Flash file(s) to extract all the
   original media that was used (e.g., using
   [JEPXS Flash decompiler](https://github.com/jindrapetrik/jpexs-decompiler)).
