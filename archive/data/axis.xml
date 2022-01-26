@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<country name="Bulgaria" code="bul" >
+<plane index="106" ><![CDATA[Messerschmitt Bf 108 B Taifun]]></plane>
+<plane index="105" ><![CDATA[PZL P.24 B]]></plane>
+</country>
+
+<country name="Croatia" code="cro" >
+<plane index="233" ><![CDATA[Dornier Do 17Z]]></plane>
+</country>
+
+<country name="Finland" code="fin" >
+<plane index="109" ><![CDATA[Beriev MBR-2bis]]></plane>
+<plane index="137" ><![CDATA[Bristol Blenheim Mk IV [Type 149]]]></plane>
+<plane index="104" ><![CDATA[Bristol Bulldog Mk IV A]]></plane>
+<plane index="101" ><![CDATA[Fokker C.X]]></plane>
+<plane index="102" ><![CDATA[Gloster Gauntlet Mk II]]></plane>
+<plane index="100" ><![CDATA[Hanriot H.232]]></plane>
+<plane index="103" ><![CDATA[Morane-Saulnier Mörkö-Moraani]]></plane>
+</country>
+
+<country name="Germany" code="ger">
+<plane index="404"><![CDATA[Arado Ar 196A]]></plane>
+<plane index="336"><![CDATA[Arado Ar 231 V1]]></plane>
+<plane index="243"><![CDATA[Arado Ar 232B]]></plane>
+<plane index="439"><![CDATA[Arado Ar 234B-2 Blitz]]></plane>
+<plane index="440"><![CDATA[Arado Ar 234C-3]]></plane>
+<plane index="406"><![CDATA[Arado Ar 240A-02]]></plane>
+<plane index="414"><![CDATA[Arado Ar 68-F]]></plane>
+<plane index="331"><![CDATA[Arado Ar 95A-1]]></plane>
+<plane index="447"><![CDATA[Blohm & Voss BV 138C-1]]></plane>
+<plane index="332"><![CDATA[Blohm & Voss BV 141B-0]]></plane>
+<plane index="437"><![CDATA[Blohm & Voss BV 142]]></plane>
+<plane index="422"><![CDATA[Blohm & Voss BV 155]]></plane>
+<plane index="449"><![CDATA[Blohm & Voss BV 222V-2 Wiking]]></plane>
+<plane index="446"><![CDATA[Blohm & Voss Ha 139B Minensuche]]></plane>
+<plane index="319"><![CDATA[Bücker Bü 131    Jungmann]]></plane>
+<plane index="322"><![CDATA[Bücker Bü 133 Jungmeister]]></plane>
+<plane index="323"><![CDATA[Bücker Bü 180 Student]]></plane>
+<plane index="436"><![CDATA[Dornier Do 18G-1]]></plane>
+<plane index="346"><![CDATA[Dornier Do 217K-1]]></plane>
+<plane index="445"><![CDATA[Dornier Do 24T-2]]></plane>
+<plane index="448"><![CDATA[Dornier Do 26]]></plane>
+<plane index="421"><![CDATA[Dornier Do 335A-6 Pfeil]]></plane>
+<plane index="435"><![CDATA[Dornier Do J IId Wal]]></plane>
+<plane index="433"><![CDATA[Fieseler Fi 103 [V-1] “Buzz Bomb”]]></plane>
+<plane index="329"><![CDATA[Fieseler Fi 156C Storch]]></plane>
+<plane index="411"><![CDATA[Fieseler Fi 167]]></plane>
+<plane index="318"><![CDATA[Fieseler Fi 5R]]></plane>
+<plane index="432"><![CDATA[Focke-Achgelis Fa 223 Drache]]></plane>
+<plane index="431"><![CDATA[Focke-Achgelis Fa 330 Bachstelze]]></plane>
+<plane index="413"><![CDATA[Focke-Wulf Fw 187       Falke]]></plane>
+<plane index="330"><![CDATA[Focke-Wulf Fw 189 A-2 Uhu]]></plane>
+<plane index="418"><![CDATA[Focke-Wulf Fw 190 A-8 Würger]]></plane>
+<plane index="419"><![CDATA[Focke-Wulf Fw 190 D-9 “Dora-Nine”]]></plane>
+<plane index="438"><![CDATA[Focke-Wulf Fw 200 C-4 Condor]]></plane>
+<plane index="324"><![CDATA[Focke-Wulf Fw 58 C Weihe]]></plane>
+<plane index="428"><![CDATA[Focke-Wulf PTL Flitzer]]></plane>
+<plane index="420"><![CDATA[Focke-Wulf Ta 152 H-1]]></plane>
+<plane index="403"><![CDATA[Focke-Wulf Ta 154 A-0 Moskito]]></plane>
+<plane index="429"><![CDATA[Focke-Wulf Ta 183 Huckebein]]></plane>
+<plane index="430"><![CDATA[Focke-Wulf Ta 283 Abfangjäger]]></plane>
+<plane index="317"><![CDATA[Gotha Go 145A]]></plane>
+<plane index="349"><![CDATA[Gotha Go 244B-1]]></plane>
+<plane index="327"><![CDATA[Heinkel He 45]]></plane>
+<plane index="325"><![CDATA[Heinkel He 46 C]]></plane>
+<plane index="407"><![CDATA[Heinkel He 51 B]]></plane>
+<plane index="443"><![CDATA[Heinkel He 59 D-1]]></plane>
+<plane index="321"><![CDATA[Heinkel He 60 D]]></plane>
+<plane index="320"><![CDATA[Heinkel He 72 B]]></plane>
+<plane index="415"><![CDATA[Heinkel He 100 D-1]]></plane>
+<plane index="343"><![CDATA[Heinkel He 111 H-6]]></plane>
+<plane index="348"><![CDATA[Heinkel He 111 Z-1 Zwilling]]></plane>
+<plane index="326"><![CDATA[Heinkel He 114 A-2]]></plane>
+<plane index="444"><![CDATA[Heinkel He 115 B-1]]></plane>
+<plane index="423"><![CDATA[Heinkel He 162 A-2 Salamander]]></plane>
+<plane index="424"><![CDATA[Heinkel He 162               Pulse Jet]]></plane>
+<plane index="442"><![CDATA[Heinkel He 177 A-5/R2 Greif]]></plane>
+<plane index="405"><![CDATA[Heinkel He 219 A-0         Uhu]]></plane>
+<plane index="410"><![CDATA[Henschel Hs 123A-1]]></plane>
+<plane index="328"><![CDATA[Henschel Hs 126B-1]]></plane>
+<plane index="412"><![CDATA[Henschel Hs 129B-3/Wa]]></plane>
+<plane index="345"><![CDATA[Junkers Ju 188D-2]]></plane>
+<plane index="244"><![CDATA[Junkers Ju 290A-5]]></plane>
+<plane index="242"><![CDATA[Junkers Ju 352A Herkules]]></plane>
+<plane index="402"><![CDATA[Junkers Ju 388J]]></plane>
+<plane index="241"><![CDATA[Junkers Ju 52/3m]]></plane>
+<plane index="342"><![CDATA[Junkers Ju 86D-1]]></plane>
+<plane index="333"><![CDATA[Junkers Ju 87B Stuka]]></plane>
+<plane index="334"><![CDATA[Junkers Ju 87G-1 Stuka]]></plane>
+<plane index="344"><![CDATA[Junkers Ju 88A-17]]></plane>
+<plane index="240"><![CDATA[Junkers W 34]]></plane>
+<plane index="441"><![CDATA[Junkers/Messerschmitt Mistel 1]]></plane>
+<plane index="417"><![CDATA[Messerschmitt Bf 109      E-3]]></plane>
+<plane index="416"><![CDATA[Messerschmitt Bf 109      E-7]]></plane>
+<plane index="335"><![CDATA[Messerschmitt Bf 110      D-1 Zerstörer]]></plane>
+<plane index="427"><![CDATA[Messerschmitt Me 1099]]></plane>
+<plane index="426"><![CDATA[Messerschmitt Me 163     B-1a Komet]]></plane>
+<plane index="401"><![CDATA[Messerschmitt Me 210 A]]></plane>
+<plane index="425"><![CDATA[Messerschmitt Me 262     A-1a]]></plane>
+<plane index="347"><![CDATA[Messerschmitt Me 321     A-1 Gigant]]></plane>
+<plane index="350"><![CDATA[Messerschmitt Me 323     D-1 Gigant]]></plane>
+<plane index="400"><![CDATA[Messerschmitt Me 410     A-1 Hornisse]]></plane>
+<plane index="434"><![CDATA[Mittelwerk GmbH            A-4 [V-2]]]></plane>
+<plane index="408"><![CDATA[Siebel Si 204A]]></plane>
+<plane index="409"><![CDATA[Weserflug We 271]]></plane>
+</country>
+
+<country name="Hungary" code="hun" >
+<plane index="114" ><![CDATA[Focke-Wulf Fw 56 Stösser]]></plane>
+<plane index="113" ><![CDATA[MÁVAG Héja II]]></plane>
+</country>
+
+<country name="Italy" code="ita" >
+<plane index="118" ><![CDATA[A.V.I.A. FL.3 ]]></plane>
+<plane index="124" ><![CDATA[Breda Ba.44]]></plane>
+<plane index="121" ><![CDATA[Breda Ba.65/K-14]]></plane>
+<plane index="146" ><![CDATA[Breda Ba.88B Lince]]></plane>
+<plane index="147" ><![CDATA[CANT Z.1007bis Alcione]]></plane>
+<plane index="149" ><![CDATA[CANT Z.501 Gabbiano ]]></plane>
+<plane index="151" ><![CDATA[CANT Z.506B Airone]]></plane>
+<plane index="122" ><![CDATA[Caproni Ca.311]]></plane>
+<plane index="123" ><![CDATA[Caproni Ca.314]]></plane>
+<plane index="144" ><![CDATA[Fiat BR.20 Cicogna]]></plane>
+<plane index="148" ><![CDATA[Fiat CR.25]]></plane>
+<plane index="125" ><![CDATA[Fiat CR.32 bis]]></plane>
+<plane index="127" ><![CDATA[Fiat CR.42 Falco]]></plane>
+<plane index="128" ><![CDATA[Fiat G.50 bis Freccia]]></plane>
+<plane index="135" ><![CDATA[Fiat G.55/I Centauro]]></plane>
+<plane index="120" ><![CDATA[IMAM Ro.37 Lince]]></plane>
+<plane index="126" ><![CDATA[IMAM Ro.43]]></plane>
+<plane index="131" ><![CDATA[IMAM Ro.44]]></plane>
+<plane index="136" ><![CDATA[IMAM Ro.57 bis Romeo]]></plane>
+<plane index="129" ><![CDATA[Macchi M.C.200 Saetta]]></plane>
+<plane index="130" ><![CDATA[Macchi M.C.202 Folgore]]></plane>
+<plane index="132" ><![CDATA[Macchi M.C.205 Veltro]]></plane>
+<plane index="119" ><![CDATA[Nardi Fn.315]]></plane>
+<plane index="150" ><![CDATA[Piaggio P.108B II]]></plane>
+<plane index="133" ><![CDATA[Reggiane Re.2002 Ariete II ]]></plane>
+<plane index="134" ><![CDATA[Reggiane Re.2005 Sagittario]]></plane>
+<plane index="143" ><![CDATA[Savoia-Marchetti SM.79 Sparviero]]></plane>
+<plane index="142" ><![CDATA[Savoia-Marchetti SM.81 Pipistrello]]></plane>
+<plane index="145" ><![CDATA[Savoia-Marchetti SM.84]]></plane>
+</country>
+
+<country name="Japan" code="jap" >
+<plane index="209" ><![CDATA[Aichi B7A2 Ryusei Kai [Grace]]]></plane>
+<plane index="205" ><![CDATA[Aichi D3A1 Type 99     [Val]]]></plane>
+<plane index="234" ><![CDATA[Aichi E11A1 Type 98 [Laura]]]></plane>
+<plane index="215" ><![CDATA[Aichi E13A1 [Jake]]]></plane>
+<plane index="219" ><![CDATA[Aichi E16A1 Zuiun      Model 11 [Paul]]]></plane>
+<plane index="235" ><![CDATA[Aichi H9A1 Type 2      Model 11 ]]></plane>
+<plane index="232" ><![CDATA[Aichi M6A1 Seiran]]></plane>
+<plane index="221" ><![CDATA[Aichi M6A1-K Nanzan [Seiran Kai]]]></plane>
+<plane index="223" ><![CDATA[Kawanishi E15K1 [Norm]]]></plane>
+<plane index="207" ><![CDATA[Kawanishi E7K1 Type 94 Model 1 [Alf]]]></plane>
+<plane index="153" ><![CDATA[Kawanishi H6K5 Type 97 [Mavis]]]></plane>
+<plane index="154" ><![CDATA[Kawanishi H8K2 Type 2 [Emily]]]></plane>
+<plane index="203" ><![CDATA[Kawanishi K5Y2 Type 93 [Willow]]]></plane>
+<plane index="313" ><![CDATA[Kawanishi N1K1 Kyōfū [Rex]]]></plane>
+<plane index="225" ><![CDATA[Kawanishi N1K2-J       Shiden-Kai [George] ]]></plane>
+<plane index="304" ><![CDATA[Kawasaki Ki-10 Type 95 [Perry]]]></plane>
+<plane index="315" ><![CDATA[Kawasaki Ki-102b Otsu [Randy]]]></plane>
+<plane index="216" ><![CDATA[Kawasaki Ki-32 [Mary]]]></plane>
+<plane index="312" ><![CDATA[Kawasaki Ki-45 KAIc Toryu [Nick]]]></plane>
+<plane index="339" ><![CDATA[Kawasaki Ki-48-II [Lily]]]></plane>
+<plane index="310" ><![CDATA[Kawasaki Ki-61-I Hien [Tony]]]></plane>
+<plane index="309" ><![CDATA[Kawasaki Ki-64 [Rob]]]></plane>
+<plane index="302" ><![CDATA[Kokusai Ki-76 [Stella]]]></plane>
+<plane index="337" ><![CDATA[Kyūshū Hikōki Q1W1 Tokai Model 11 [Lorna]]]></plane>
+<plane index="228" ><![CDATA[Kyūshū J7W1 18-shi Shinden]]></plane>
+<plane index="220" ><![CDATA[Mitsubishi A5M4       [Claude]]]></plane>
+<plane index="222" ><![CDATA[Mitsubishi A6M2 Zero-Sen [Zeke]]]></plane>
+<plane index="226" ><![CDATA[Mitsubishi A7M2 Reppū [Sam]]]></plane>
+<plane index="206" ><![CDATA[Mitsubishi B5M1 Type 97 Model 2 Koktai [Mabel]]]></plane>
+<plane index="231" ><![CDATA[Mitsubishi C5M2 [Babs]]]></plane>
+<plane index="303" ><![CDATA[Mitsubishi F1M2 Type 0 [Pete] ]]></plane>
+<plane index="237" ><![CDATA[Mitsubishi G3M2 Type 22 [Nell]]]></plane>
+<plane index="238" ><![CDATA[Mitsubishi G4M2 Type 1 Model 22 [Betty]]]></plane>
+<plane index="224" ><![CDATA[Mitsubishi J2M3 Raiden [Jack]]]></plane>
+<plane index="230" ><![CDATA[Mitsubishi Ki-15 Kamikaze]]></plane>
+<plane index="338" ><![CDATA[Mitsubishi Ki-21 Type      97 IIa [Sally]]]></plane>
+<plane index="214" ><![CDATA[Mitsubishi Ki-30 [Ann]]]></plane>
+<plane index="301" ><![CDATA[Mitsubishi Ki-46 II Type 100 [Dinah]]]></plane>
+<plane index="300" ><![CDATA[Mitsubishi Ki-46 III [Dinah]]]></plane>
+<plane index="314" ><![CDATA[Mitsubishi Ki-46 III KAI [Dinah]]]></plane>
+<plane index="217" ><![CDATA[Mitsubishi Ki-51 Type 99 [Sonia]]]></plane>
+<plane index="340" ><![CDATA[Mitsubishi Ki-67 1b      Hiryū [Peggy]]]></plane>
+<plane index="229" ><![CDATA[Mitsubishi Ki-83]]></plane>
+<plane index="236" ><![CDATA[Mitsubishi L3M1 Nippon-Go [Tina]]]></plane>
+<plane index="308" ><![CDATA[Nakajima A6M2-N Type 2 [Rufe]]]></plane>
+<plane index="204" ><![CDATA[Nakajima B5N2 [Kate]]]></plane>
+<plane index="210" ><![CDATA[Nakajima B6N1 Tezan [Jill]]]></plane>
+<plane index="218" ><![CDATA[Nakajima C6N1-X Saiun Model 11 [Myrt]]]></plane>
+<plane index="212" ><![CDATA[Nakajima C6N2        Saiun-kai [Myrt]]]></plane>
+<plane index="211" ><![CDATA[Nakajima E8N2 [Dave]]]></plane>
+<plane index="152" ><![CDATA[Nakajima G8N1 18-shi Renzan [Rita]]]></plane>
+<plane index="213" ><![CDATA[Nakajima J1N1-C KAI Gekko [Irving]]]></plane>
+<plane index="305" ><![CDATA[Nakajima Ki-27b [Nate]]]></plane>
+<plane index="202" ><![CDATA[Nakajima Ki-4]]></plane>
+<plane index="306" ><![CDATA[Nakajima Ki-43 I Hayabusa [Oscar]]]></plane>
+<plane index="307" ><![CDATA[Nakajima Ki-44 II Shōki [Tojo]]]></plane>
+<plane index="341" ><![CDATA[Nakajima Ki-49 Donryu [Helen]]]></plane>
+<plane index="311" ><![CDATA[Nakajima Ki-84-1a Hayate [Frank]]]></plane>
+<plane index="201" ><![CDATA[Tachikawa Ki-54C [Hickory]]]></plane>
+<plane index="200" ><![CDATA[Tachikawa Ki-55 Type     99 [Ida]]]></plane>
+<plane index="208" ><![CDATA[Yokosuka D4Y2 Suisei [Judy]]]></plane>
+<plane index="227" ><![CDATA[Yokosuka E14Y-1 [Glen]]]></plane>
+<plane index="316" ><![CDATA[Yokosuka MXY-7 Ohka]]></plane>
+<plane index="239" ><![CDATA[Yokosuka P1Y2-S Kyokko [Frances]]]></plane></country>
+
+<country name="Romania" code="rom" >
+<plane index="112" ><![CDATA[Industria Aeronautică Română IAR 80A]]></plane>
+</country>
+
+<country name="Slovakia" code="slo" >
+<plane index="110" ><![CDATA[Avia B.534 IV]]></plane>
+<plane index="108" ><![CDATA[Praga E-39]]></plane>
+<plane index="111" ><![CDATA[Siebel Si 202C Hummel]]></plane>
+</country>
+
+<country name="Thailand" code="tha" >
+<plane index="107" ><![CDATA[Curtiss Hawk III]]></plane>
+</country>
+
+<country name="Vichy France" code="vfr" >
+<plane index="115" ><![CDATA[Bloch MB.152]]></plane>
+<plane index="116" ><![CDATA[Bloch MB.155]]></plane>
+<plane index="140" ><![CDATA[Bloch MB.210]]></plane>
+<plane index="117" ><![CDATA[Dewoitine D.520]]></plane>
+<plane index="141" ><![CDATA[Lioré et Olivier LeO 451]]></plane>
+<plane index="139" ><![CDATA[Martin 167 Maryland Mk I]]></plane>
+<plane index="138" ><![CDATA[Potez 540]]></plane>
+</country>
+
+
+
+
+
+

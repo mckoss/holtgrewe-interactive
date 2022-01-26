@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<country name="Australia" code="aus" >
+<plane index="715" ><![CDATA[Commonwealth CA-13 Boomerang]]></plane>
+<plane index="635" ><![CDATA[Douglas DC-2 [C-32]]]></plane>
+<plane index="709" ><![CDATA[Miles M.25 Martinet TT Mk I]]></plane>
+<plane index="713" ><![CDATA[Vultee Vengeance Mk II]]></plane>
+</country>
+
+<country name="Belgium" code="bel" >
+<plane index="511" ><![CDATA[Renard R-31]]></plane>
+</country>
+
+<country name="Canada" code="can" >
+<plane index="706" ><![CDATA[Fairchild PT-26A Cornell]]></plane>
+</country>
+
+<country name="China" code="chi" >
+<plane index="815" ><![CDATA[Curtiss Kittyhawk           [P-40E]]]></plane>
+<plane index="812" ><![CDATA[Polikarpov I-152]]></plane>
+<plane index="814" ><![CDATA[Seversky [Republic]        P-43A-1 Lancer]]></plane>
+<plane index="813" ><![CDATA[Tupolev SB-2M-100]]></plane>
+</country>
+
+<country name="Czechoslovakia" code="cze" >
+<plane index="504" ><![CDATA[Avia B.35]]></plane>
+<plane index="536" ><![CDATA[Bloch MB.200]]></plane>
+<plane index="502" ><![CDATA[Letov Š.231.10]]></plane>
+<plane index="503" ><![CDATA[Letov Š.331.1]]></plane>
+<plane index="505" ><![CDATA[Letov Š.328 V]]></plane>
+<plane index="501" ><![CDATA[Letov Š.428]]></plane>
+</country>
+
+<country name="Ethiopia" code="eth" >
+<plane index="500" ><![CDATA[Potez XXV A2]]></plane>
+</country>
+
+<country name="France" code="fra" >
+<plane index="541"><![CDATA[Amiot 143]]></plane>
+<plane index="546"><![CDATA[Amiot 354]]></plane>
+<plane index="524"><![CDATA[ANF Les Mureaux 117 R2B2]]></plane>
+<plane index="528"><![CDATA[Arsenal de l'Aéronautique VG-33]]></plane>
+<plane index="544"><![CDATA[Bloch MB.131]]></plane>
+<plane index="545"><![CDATA[Bloch MB.174 A-3]]></plane>
+<plane index="543"><![CDATA[Bréguet 691 AB-2]]></plane>
+<plane index="523"><![CDATA[CAMS 37A]]></plane>
+<plane index="529"><![CDATA[Caudron-Renault        C.714 Cyclone]]></plane>
+<plane index="532"><![CDATA[Curtiss                          P-36/H.75-A2[C1]]]></plane>
+<plane index="533"><![CDATA[Curtiss SBC-4 Helldiver]]></plane>
+<plane index="525"><![CDATA[Dewoitine D.501]]></plane>
+<plane index="526"><![CDATA[Dewoitine D.510]]></plane>
+<plane index="549"><![CDATA[Farman F.222]]></plane>
+<plane index="535"><![CDATA[Latécoère 298]]></plane>
+<plane index="531"><![CDATA[Loire 130]]></plane>
+<plane index="522"><![CDATA[Loire 46]]></plane>
+<plane index="534"><![CDATA[Loire-Nieuport LN 411]]></plane>
+<plane index="521"><![CDATA[Morane-Saulnier       M.S.225]]></plane>
+<plane index="519"><![CDATA[Morane-Saulnier       M.S.230]]></plane>
+<plane index="530"><![CDATA[Morane-Saulnier M.S.406]]></plane>
+<plane index="520"><![CDATA[Nieuport-Delage           Ni-D.622 ]]></plane>
+<plane index="527"><![CDATA[Potez 452 ]]></plane>
+<plane index="542"><![CDATA[Potez 63.11A-3]]></plane>
+
+</country>
+<country name="Great Britain" code="grb" >
+<plane index="634"><![CDATA[Airspeed AS.10 Oxford]]></plane>
+<plane index="551"><![CDATA[Airspeed AS.51 Horsa   Mk I]]></plane>
+<plane index="643"><![CDATA[Armstrong Whitworth A.W.38 Whitley Mk VII]]></plane>
+<plane index="550"><![CDATA[Armstrong Whitworth A.W.41 Albemarle]]></plane>
+<plane index="714"><![CDATA[Avro [Cierva] Type 671 Rota Mk Ia]]></plane>
+<plane index="633"><![CDATA[Avro 652A Anson Mk I]]></plane>
+<plane index="640"><![CDATA[Avro 679 Manchester      Mk IA]]></plane>
+<plane index="553"><![CDATA[Avro 685 York]]></plane>
+<plane index="641"><![CDATA[Avro Lancaster B.III [Special]]]></plane>
+<plane index="734"><![CDATA[Blackburn Botha Mk I]]></plane>
+<plane index="718"><![CDATA[Blackburn Roc Mk I]]></plane>
+<plane index="720"><![CDATA[Blackburn Shark Mk II]]></plane>
+<plane index="723"><![CDATA[Blackburn Skua Mk II]]></plane>
+<plane index="802"><![CDATA[Boulton Paul P.82 Defiant]]></plane>
+<plane index="803"><![CDATA[Bristol Beaufighter Mk IF]]></plane>
+<plane index="732"><![CDATA[Bristol Blenheim Mk IF (Type 142 M)]]></plane>
+<plane index="552"><![CDATA[Bristol Type 130         Bombay Mk I ]]></plane>
+<plane index="701"><![CDATA[de Havilland DH.82A Tiger Moth]]></plane>
+<plane index="708"><![CDATA[de Havilland DH.89B Dominie]]></plane>
+<plane index="834"><![CDATA[de Havilland Mosquito    B Mk IV]]></plane>
+<plane index="636"><![CDATA[Douglas C-47 [DC-3] Dakota]]></plane>
+<plane index="730"><![CDATA[Fairchild F-91]]></plane>
+<plane index="722"><![CDATA[Fairey Albacore Mk I]]></plane>
+<plane index="724"><![CDATA[Fairey Barracuda Mk II]]></plane>
+<plane index="731"><![CDATA[Fairey Battle]]></plane>
+<plane index="727"><![CDATA[Fairey Firefly Mk I]]></plane>
+<plane index="719"><![CDATA[Fairey Fulmar Mk I]]></plane>
+<plane index="703"><![CDATA[Fairey Seafox]]></plane>
+<plane index="721"><![CDATA[Fairey Swordfish Mk I]]></plane>
+<plane index="726"><![CDATA[Fairey Swordfish Mk I ]]></plane>
+<plane index="717"><![CDATA[Gloster Gladiator [Sea Gladiator]]]></plane>
+<plane index="811"><![CDATA[Gloster Meteor F Mk III]]></plane>
+<plane index="728"><![CDATA[Grumman G36B           [F4F-3A] Martlet II]]></plane>
+<plane index="733"><![CDATA[Handley Page H.P.52 Hampden Mk I]]></plane>
+<plane index="639"><![CDATA[Handley Page Halifax B Mk III]]></plane>
+<plane index="700"><![CDATA[Hawker Hart]]></plane>
+<plane index="800"><![CDATA[Hawker Hurricane Mk I]]></plane>
+<plane index="801"><![CDATA[Hawker Hurricane         Mk II C]]></plane>
+<plane index="810"><![CDATA[Hawker Tempest Mk V]]></plane>
+<plane index="809"><![CDATA[Hawker Typhoon Mk IB]]></plane>
+<plane index="831"><![CDATA[Lockheed Hudson Mk I]]></plane>
+<plane index="632"><![CDATA[Lockheed Model 12 Electra Junior]]></plane>
+<plane index="832"><![CDATA[Martin 187 Baltimore]]></plane>
+<plane index="702"><![CDATA[Miles M.14 A Magister]]></plane>
+<plane index="705"><![CDATA[Miles M.38 Messenger]]></plane>
+<plane index="704"><![CDATA[Miles M.9A Master Mk I]]></plane>
+<plane index="736"><![CDATA[Short S.25 Sunderland Mk III ]]></plane>
+<plane index="638"><![CDATA[Short S.29 Stirling Mk I]]></plane>
+<plane index="707"><![CDATA[Stinson L-5 Sentinel       Mk II]]></plane>
+<plane index="711"><![CDATA[Stinson Reliant Mk I]]></plane>
+<plane index="806"><![CDATA[Supermarine Spitfire LF Mk IX]]></plane>
+<plane index="807"><![CDATA[Supermarine Spitfire LF Mk XVI]]></plane>
+<plane index="804"><![CDATA[Supermarine Spitfire      Mk I]]></plane>
+<plane index="805"><![CDATA[Supermarine Spitfire      Mk Vb]]></plane>
+<plane index="735"><![CDATA[Supermarine Stranraer ]]></plane>
+<plane index="725"><![CDATA[Supermarine Walrus]]></plane>
+<plane index="729"><![CDATA[Vickers 287 Wellesley    Mk I]]></plane>
+<plane index="637"><![CDATA[Vickers 417 Wellington Mk III]]></plane>
+<plane index="642"><![CDATA[Vickers Warwick GR Mk V]]></plane>
+<plane index="710"><![CDATA[Vultee [Stinson] L-1 Vigilant]]></plane>
+<plane index="712"><![CDATA[Westland Lysander Mk III]]></plane>
+<plane index="808"><![CDATA[Westland Whirlwind Mk I]]></plane>
+</country>
+
+<country name="Italy (Co-Belligerent)" code="icb" >
+<plane index="513" ><![CDATA[Reggiane Re.2001       Falco II]]></plane>
+</country>
+
+<country name="Lithuania" code="lit" >
+<plane index="512" ><![CDATA[Dewoitine D.372]]></plane>
+</country>
+
+<country name="Netherlands" code="net" >
+<plane index="516"><![CDATA[Fokker D.XVII]]></plane>
+<plane index="517"><![CDATA[Fokker D.XXI]]></plane>
+<plane index="518"><![CDATA[Fokker D.XXIII]]></plane>
+<plane index="538"><![CDATA[Fokker F.VIIB/3m]]></plane>
+<plane index="540"><![CDATA[Fokker G.IA Mercury]]></plane>
+<plane index="548"><![CDATA[Fokker T.IV A]]></plane>
+<plane index="539"><![CDATA[Fokker T.VIII W/G]]></plane>
+<plane index="515"><![CDATA[Koolhoven F.K.51]]></plane>
+</country>
+
+<country name="Poland" code="pol" >
+<plane index="507"><![CDATA[Lublin [Plage i Laśkiewicz] R.XIIID]]></plane>
+<plane index="506"><![CDATA[PWS-16 bis]]></plane>
+<plane index="508"><![CDATA[PZL P.11c]]></plane>
+<plane index="509"><![CDATA[PZL.23B Karaś]]></plane>
+<plane index="537"><![CDATA[PZL.37B Łoś]]></plane>
+</country>
+
+<country name="South Africa" code="saf" >
+<plane index="833" ><![CDATA[Bristol Beaufort Mk I]]></plane>
+<plane index="716" ><![CDATA[Curtiss Kittyhawk          [P-40E] Mk IA]]></plane>
+</country>
+
+<country name="Soviet Union" code="rus" >
+<plane index="628"><![CDATA[Archangelski Ar-2]]></plane>
+<plane index="624"><![CDATA[Bell P-39N Airacobra]]></plane>
+<plane index="625"><![CDATA[Bell P-63C Kingcobra]]></plane>
+<plane index="604"><![CDATA[Beriev Be-2 [KOR-1]]]></plane>
+<plane index="615"><![CDATA[Beriev Be-2 [KOR-1]]]></plane>
+<plane index="611"><![CDATA[Beriev Be-4 [KOR-2]]]></plane>
+<plane index="626"><![CDATA[Ilyushin DB-3M]]></plane>
+<plane index="609"><![CDATA[Ilyushin Il-2 Shturmovik]]></plane>
+<plane index="610"><![CDATA[Ilyushin Il-2M3 Shturmovik]]></plane>
+<plane index="627"><![CDATA[Ilyushin Il-4 [Bob]]]></plane>
+<plane index="619"><![CDATA[Lavochkin La-5F]]></plane>
+<plane index="621"><![CDATA[Lavochkin La-7]]></plane>
+<plane index="618"><![CDATA[Lavochkin-Gorbunov-Goudkov LaGG-3]]></plane>
+<plane index="617"><![CDATA[Mikoyan-Gurevich I-211]]></plane>
+<plane index="616"><![CDATA[Mikoyan-Gurevich MiG-3]]></plane>
+<plane index="605"><![CDATA[Neman R-10]]></plane>
+<plane index="629"><![CDATA[Petlyakov Pe-2]]></plane>
+<plane index="630"><![CDATA[Petlyakov Pe-3]]></plane>
+<plane index="613"><![CDATA[Polikarpov I-15 bis]]></plane>
+<plane index="612"><![CDATA[Polikarpov I-153 Chaika]]></plane>
+<plane index="614"><![CDATA[Polikarpov I-16 Type 27]]></plane>
+<plane index="620"><![CDATA[Polikarpov I-185]]></plane>
+<plane index="600"><![CDATA[Polikarpov Po-2]]></plane>
+<plane index="601"><![CDATA[Polikarpov R-Z Natacha]]></plane>
+<plane index="607"><![CDATA[Shavrov Sh-2]]></plane>
+<plane index="606"><![CDATA[Sukhoi Su-2]]></plane>
+<plane index="608"><![CDATA[Sukhoi Su-6 AM-42]]></plane>
+<plane index="547"><![CDATA[Tupolev TB-3]]></plane>
+<plane index="631"><![CDATA[Tupolev Tu-2]]></plane>
+<plane index="602"><![CDATA[Yakovlev UT-1/1b]]></plane>
+<plane index="623"><![CDATA[Yakovlev Yak-3]]></plane>
+<plane index="603"><![CDATA[Yakovlev Yak-6]]></plane>
+<plane index="622"><![CDATA[Yakovlev Yak-9T]]></plane>
+</country>
+
+<country name="United States" code="usa" >
+<plane index="824"><![CDATA[Beechcraft AT-11     Kansan]]></plane>
+<plane index="902"><![CDATA[Beechcraft JRB-2 Expeditor]]></plane>
+<plane index="829"><![CDATA[Beechcraft Model 17    [UC-43B] Traveler]]></plane>
+<plane index="841"><![CDATA[Boeing 314 “Clipper”]]></plane>
+<plane index="938"><![CDATA[Boeing B-17G Flying Fortress]]></plane>
+<plane index="940"><![CDATA[Boeing B-29B Superfortress]]></plane>
+<plane index="739"><![CDATA[Boeing Model 307 [C-75] Stratoliner]]></plane>
+<plane index="907"><![CDATA[Boeing P-26A “Peashooter”]]></plane>
+<plane index="816"><![CDATA[Boeing Stearman N2S-2 Kaydet]]></plane>
+<plane index="926"><![CDATA[Brewster F2A-3 Buffalo]]></plane>
+<plane index="821"><![CDATA[Cessna JRC-1 [T-50] Bobcat]]></plane>
+<plane index="939"><![CDATA[Consolidated B-24H Liberator]]></plane>
+<plane index="937"><![CDATA[Consolidated PB2Y-3 Coronado]]></plane>
+<plane index="842"><![CDATA[Consolidated PBY-5A Catalina]]></plane>
+<plane index="922"><![CDATA[Consolidated TBY-2 [Vought TBU] Sea Wolf]]></plane>
+<plane index="904"><![CDATA[Curtiss A-12 Shrike]]></plane>
+<plane index="822"><![CDATA[Curtiss AT-9 Jeep I]]></plane>
+<plane index="740"><![CDATA[Curtiss C-46A   Commando]]></plane>
+<plane index="827"><![CDATA[Curtiss O-52 Owl]]></plane>
+<plane index="921"><![CDATA[Curtiss SB2C-3    Helldiver]]></plane>
+<plane index="925"><![CDATA[Curtiss SC-1 Seahawk]]></plane>
+<plane index="920"><![CDATA[Curtiss SO3C-3 Seagull [Seamew]]]></plane>
+<plane index="903"><![CDATA[Curtiss SOC-3 Seagull]]></plane>
+<plane index="934"><![CDATA[Douglas A-20G Havoc]]></plane>
+<plane index="936"><![CDATA[Douglas A-26B Invader]]></plane>
+<plane index="737"><![CDATA[Douglas C-47 [DC-3] Skytrain]]></plane>
+<plane index="741"><![CDATA[Douglas C-54A [DC-4] Skymaster]]></plane>
+<plane index="825"><![CDATA[Douglas O-46A]]></plane>
+<plane index="918"><![CDATA[Douglas SBD-2 Dauntless]]></plane>
+<plane index="916"><![CDATA[Douglas TBD-1 Devastator]]></plane>
+<plane index="828"><![CDATA[Fairchild J2K-2 [UC-61] Forwarder]]></plane>
+<plane index="924"><![CDATA[Grumman F3F-2]]></plane>
+<plane index="927"><![CDATA[Grumman F4F-4   Wildcat]]></plane>
+<plane index="929"><![CDATA[Grumman F6F-3    Hellcat]]></plane>
+<plane index="930"><![CDATA[Grumman F7F-2N Tigercat]]></plane>
+<plane index="931"><![CDATA[Grumman F8F-1B Bearcat]]></plane>
+<plane index="923"><![CDATA[Grumman FF-1 Goblin]]></plane>
+<plane index="906"><![CDATA[Grumman J2F-6 Duck]]></plane>
+<plane index="836"><![CDATA[Grumman J4F Widgeon]]></plane>
+<plane index="835"><![CDATA[Grumman JRF-5 Goose]]></plane>
+<plane index="919"><![CDATA[Grumman TBM-3 Avenger]]></plane>
+<plane index="838"><![CDATA[Lockheed C-69 Constellation]]></plane>
+<plane index="912"><![CDATA[Lockheed P-38J Lightning]]></plane>
+<plane index="837"><![CDATA[Lockheed PV-1 Ventura]]></plane>
+<plane index="830"><![CDATA[Lockheed Vega Model     5C [UC 101]]]></plane>
+<plane index="932"><![CDATA[Martin B-10B]]></plane>
+<plane index="935"><![CDATA[Martin B-26B-50-MA Marauder]]></plane>
+<plane index="843"><![CDATA[Martin PBM-3D Mariner]]></plane>
+<plane index="823"><![CDATA[Naval Aircraft Factory N3N-3 Canary]]></plane>
+<plane index="839"><![CDATA[Naval Aircraft Factory/Hall PH-3]]></plane>
+<plane index="901"><![CDATA[Noorduyn C-64A Norseman Mk V]]></plane>
+<plane index="933"><![CDATA[North American B-25J Mitchell]]></plane>
+<plane index="818"><![CDATA[North American BT-14 Yale]]></plane>
+<plane index="826"><![CDATA[North American O-47A]]></plane>
+<plane index="913"><![CDATA[North American P-51B Mustang]]></plane>
+<plane index="914"><![CDATA[North American P-51D Mustang]]></plane>
+<plane index="820"><![CDATA[North American SNJ-5 Texan]]></plane>
+<plane index="905"><![CDATA[Northrop A-17A]]></plane>
+<plane index="915"><![CDATA[Northrop P-61A-5 Black Widow]]></plane>
+<plane index="900"><![CDATA[Piper L-4H Grasshopper]]></plane>
+<plane index="910"><![CDATA[Republic P-47D Thunderbolt [Bubbletop]]]></plane>
+<plane index="909"><![CDATA[Republic P-47D Thunderbolt [Razorback]]]></plane>
+<plane index="819"><![CDATA[Ryan YPT-16 Recruit]]></plane>
+<plane index="908"><![CDATA[Seversky P-35A]]></plane>
+<plane index="840"><![CDATA[Sikorsky JRS-1]]></plane>
+<plane index="928"><![CDATA[Vought F4U 1-A Corsair]]></plane>
+<plane index="911"><![CDATA[Vought OS2U-3 Kingfisher]]></plane>
+<plane index="917"><![CDATA[Vought SB2U Vindicator]]></plane>
+<plane index="817"><![CDATA[Vultee BT-13A Valiant]]></plane>
+<plane index="738"><![CDATA[Waco CG-4A Hadrian]]></plane>
+
+</country>
+<country name="Yugoslavia" code="yug" >
+<plane index="510" ><![CDATA[Dornier Do 22]]></plane>
+<plane index="514" ><![CDATA[Rogožarski IK-3]]></plane>
+</country>

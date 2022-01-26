@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+# fetch-archive --- Get all orignial source material from the MoF website
+
+set -e
+TOOLS_DIR="$(unset CDPATH; cd $(dirname ${BASH_SOURCE[0]}) && pwd)"
+source $TOOLS_DIR/use
+
+SOURCE_URL="http://www.museumofflight.org/files/video/HoltgreweInteractive_Web/"
+
+FILES="data/axis.xml data/allied.xml data/holtegrewe.xml data/index.xml InterfaceComp_FIN_mx2004_WEB.swf holt.html holtgrewecapture.jpg"
+
+for file in $FILES; do
+  echo "Downloading $file ..."
+  dest=$PROJ_DIR/archive/$file
+  mkdir -p $(dirname $dest)
+  curl -L -o $dest $SOURCE_URL/$file
+done
+
+tree $PROJ_DIR/archive
