@@ -8,7 +8,7 @@ source $TOOLS_DIR/use
 
 SOURCE_URL="http://www.museumofflight.org/files/video/HoltgreweInteractive_Web/"
 
-FILES="data/axis.xml data/allied.xml data/holtegrewe.xml data/index.xml InterfaceComp_FIN_mx2004_WEB.swf holt.html holtgrewecapture.jpg"
+FILES="data/axis.xml data/allied.xml data/holtgrewe.xml data/index.xml InterfaceComp_FIN_mx2004_WEB.swf holt.html holtgrewecapture.jpg"
 
 for file in $FILES; do
   echo "Downloading $file ..."
