@@ -79,6 +79,11 @@ unuse () {
         unalias $ENV_ALIASES
     fi
     unset ENV_ALIASES
+
+    # Assume we want to un-use the Python VIRTUAL_ENV as well.
+    if [ -n $VIRTUAL_ENV ]; then
+        deactivate
+    fi
 }
 
 display-command () {
