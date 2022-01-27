@@ -12,7 +12,7 @@ FILES="data/axis.xml data/allied.xml data/holtgrewe.xml data/index.xml Interface
 
 for file in $FILES; do
   echo "Downloading $file ..."
-  dest=$PROJ_DIR/archive/$file
+  dest=$PROJ_DIR/archive/wwii/$file
   mkdir -p $(dirname $dest)
   curl -L -o $dest $SOURCE_URL/$file
 done
