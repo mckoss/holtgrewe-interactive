@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+# fetch-images --- Scrape MoF website for images
+
+set -e
+TOOLS_DIR="$(unset CDPATH; cd $(dirname ${BASH_SOURCE[0]}) && pwd)"
+source $TOOLS_DIR/use
+
+SOURCE_URL="http://www.museumofflight.org/files/video/HoltgreweInteractive_Web"
+
+FILES="data/axis.xml data/allied.xml data/holtgrewe.xml data/index.xml InterfaceComp_FIN_mx2004_WEB.swf holt.html holtgrewecapture.jpg"
+
+mkdir -p $PROJ_DIR/archive/imgs
+
+for index in {001..426}; do
+  for suffix in a b c; do
+    path=imgs/$index$suffix.jpg
+    file=$PROJ_DIR/archive/$path
+    url=$SOURCE_URL/$path
+    echo "Downloading $path"
+    curl -L -o $file $url
+  done
+done
+
+tree $PROJ_DIR/archive
