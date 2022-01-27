@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="152" cos="Germany"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[LFG Roland C.II <i>Walfisch</i> (Whale)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The LFG Roland C.II represents a versatile German aircraft built by the aviation company LFG Roland. Just prior to the outbreak of World War I, the German aircraft company, Luftfahrzeug Gesellschaft (LFG), adopted the trade name “Roland” in order to avoid any confusion with another German aircraft firm Luft-Verkehrs GmbH (LVG). Prior to the name change in 1915, the LFG engineers designed and built the LFG Roland C.II, a revolutionary and streamlined biplane meant to serve as a reconnaissance aircraft. The C.II, however, was armed and could also function as a fighter. This unique craft was nicknamed “Walfisch" (German for "whale").
+
+Unlike most biplanes of the era, both wings of the LFG Roland C.II attached directly to the fuselage. This arrangement eliminated the need for center section struts and reduced the wing’s rigging requirements, thus achieving reduced drag and a strengthened upper wing. The C.II also featured a special semi-monocoque fuselage. Each half of the fuselage was formed in a mold with alternate layers of a thin spruce veneer and fabric, each applied at an acute angle and glued one to the other to create the fuselage. The result was a light and very strong structure. The machine, however, did possess a few problems. Because the space between its wings was narrower than usual, the aircraft stalled easily. The Roland C.II’s thin wings were also prone to break under severe stress. 
+
+Despite these drawbacks, the Roland C.II became highly successful as a long range reconnaissance craft during the early months of World War I. With its mounted machine gun, it could serve for both defense and offense at a time when many of the aircraft of both sides were either poorly armed or unarmed. Given its speed and successful performance, a fighter version of the C.II Walfisch was later designated, the LFG Roland D.I. This machine had only one seat, was slightly smaller, and included two fixed forward firing synchronized LMG 08/15 machine guns.
+
+By 1917, the LFG Roland C.IIs became obsolete in the face of improved Allied fighters. They were withdrawn from active reconnaissance roles and were transferred to German flight schools where they served as duel seat trainers for the remainder of the War.
+
+<b>Model Builder's Comments:</b> The C.II modeled here replicates the one piloted by Oberleutnant Ritter von Schleich. It displays a stylized whale mouth and eyes on the forward fuselage.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Feld Flieger Abteiling 2b, German Flying Corps, Western Front, April 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Luftfahrzeug Gesellschaft Roland (LFG)
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Mercedes D III, 6 cylinder inline liquid-cooled piston engine of 160 hp (119 kW)
+<b>Performance:</b>
+Maximum Speed: 103 mph (165 km/h) 
+Ceiling: 17,700 feet (5,400 m)
+Endurance: 4 - 5 hours
+Empty Weight: 1,681 pounds (764 kg)
+Loaded Weight: 2,825 pounds (1,284 kg) 
+<b>Dimensions: </b>
+Span: 33 feet 10 inches (10.31 m) 
+Length: 25 feet 4 inches (7.72 m)
+Height: 9 feet 6 inches (2.90) 
+<b>Armament:</b> One 7.9mm (0.31inch) Spandau machine gun in a flexible mount in rear cockpit
+<b>Crew:</b>2
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

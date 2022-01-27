@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="202" cos="France"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Morane-Saulnier Type AC (Mo.S.23)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Morane-Saulnier Type AC, modeled here, was the last in a series of shoulder-winged monoplanes built by Morane-Saulnier during World War I. Unlike some of the manufacturer's earlier aircraft, which were first developed for civilian use, the Type AC was designed specifically as a fighter. While retaining the shoulder-positioned monoplane configuration of its predecessors, it differed from them by employing ailerons instead of wing-warping for lateral control. Free of the need for wing-warping, the aircraft's single wing had rigid bracing on its underside. The new Morane-Saulnier Type AC was very aerodynamically clean by standards of the time. Its fuselage was faired to a circular cross section, a large, smooth spinner held its two bladed propeller and its control cables were all internal and a single machine gun was mounted atop the forward fuselage. The first Type AC prototype flew in the late summer of 1916. Its performance was felt to be competitive with that of any Allied fighter then in service. 
+
+The Aviation Militaire ordered thirty production models, which began equipping French fighter Escadrille in late 1916. The Morane-Saulnier Type AC had excellent performance but had the misfortune of entering service at the same time as the new S.P.A.D. S.VII biplane fighter. The AC was deemed slightly inferior to the new S.P.A.D. and so only the original thirty machines were ever manufactured. World War I aviation records are vague about the operational history of the Morane-Saulnier Type AC fighters but it is known that they remained in active combat service until the spring of 1917.  They were then replaced by S.P.A.D. S.XIII fighters, which had joined S.VIIs and Neuports, as the principle fighter aircraft of the Aviation Militaire. It is further known that two ACs were supplied to the British Royal Flying Corps for evaluation but there is no record that either were deployed operationally. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified fighter escadrille, Aviation Militaire (French Air Force), Western Front, December, 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Aéroplanes Morane-Saulnier
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhone 9JB, 9 cylinder air-cooled rotary piston engine of 120 hp (90kW) 
+<b>Performance:</b>
+Maximum Speed: 111 mph (179 km/h)  
+Ceiling:  Not documented
+Endurance: 2 hours 30 minutes  
+Empty Weight: 959 pounds (435 kg)
+Loaded Weight: not documented 
+<b>Dimensions: </b>
+Span: 32 feet 1 inch (9.78 m)  
+Length: 23 feet 1 inch (7.04 m)
+Height: 8 feet 11 inches (2.72 m)
+<b>Armament:</b> One fixed, forward-firing 7.7 mm (0.303 inch) synchronized machine gun atop the forward fuselage.   
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

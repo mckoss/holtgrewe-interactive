@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="139" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Pfalz E.I]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The design of the German Pfalz E.I fighter was largely based on the French Morane-Saulnier type L. In early 1914, before the outbreak of World War I, the German aviation company Pfalz Flugzeug-Werke began building the French-designed Morane-Saulnier type L monoplane under license. With the onset of war, Pfalz took the experience gleaned from building the type L and designed and built its own aircraft, the Pfalz E.I (modeled here). The Pfalz E.I retained many of the features of its French predecessor including its shoulder-wing monoplane design, wooden frame, fabric covering, metal engine cowling, and its single machine gun.
+
+Derived from a similar French fighter, the Pfalz E.I signified an important advance in aviation technology in its own right.
+
+The Pfalz E.I represents one of the first aircraft to include a propeller-synchronized machine gun system. A synchronized rod allowed the aircraft's machine gun to fire only when its propeller was not in the gun's line of fire. This represented a significant improvement over the Morane-Saulnier type L, which utilized steel plates fixed to its propeller to deflect any bullets which might strike it. 
+
+The Pfalz E.I first joined German Air Force units on the Western Front in October 1916 where it primarily served as an escort fighter for German reconnaissance aircraft flying over the Allied lines. The Pfalz E.I also served in the German and Ottoman Air Forces in 1916 during the Sinai desert campaigns in the Middle East. The Bavarian Air Force employed several of these fighters as unarmed reconnaissance aircraft as well. The E.I performed marginally compared to other German fighters of the era and a maximum of only 27 remained in service with the German Air Force at any one time. By 1917, the Pfalz E.I was replaced by more advanced biplane fighters in the Central Powers' Air Services. None are known to have survived the war.
+
+<b>Model Builder's Comments:</b> The prototype for this model was painted in a very interesting and unusual black and white color scheme.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft from an unidentified unit of the German Air Force, Western Front, 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Pfalz Flugzeugwerke GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Oberursel U O, 7 cylinder air-cooled rotary piston engine of 80 hp (60kW)
+<b>Performance:</b>
+Maximum Speed: 90 mph (145 km/h)
+Ceiling: 10,000+ feet (3,048+ m) 
+Endurance: 1 hour 30 minutes 
+Empty Weight: Not documented 
+Loaded Weight: 1,179 pounds (535 kg)
+<b>Dimensions: </b>
+Span: 30 feet 4 inches (9.25 m) 
+Length: 20 feet 8 inches (6.30 m) 
+Height: 8 feet 4 inches (2.54 m)
+<b>Armament:</b> One fixed, forward-firing 7.9mm (.031 inch) synchronized LMG 08/15 machine gun 
+<b>Crew:</b>0
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

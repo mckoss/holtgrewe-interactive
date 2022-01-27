@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="210" cos="France"> 
+<type><![CDATA[Bomber]]></type>
+<plnName><![CDATA[ Sopwith 11/2 Strutter Single-Seat Bomber (1.B1)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In 1916, the bomber and army cooperation escadrilles of the Aviation Militaire were flying outdated Farman and Caudron and Voisin aircraft. While design work was progressing on improved replacement for these machines, delivery of production aircraft was not scheduled to begin until the middle of 1917. To better meet the needs of its bombing and army cooperation units, France ordered a number of Sopwith 1 1/2 Strutters from its British allies and began building the aircraft under license.
+
+Two variants of the 1 1/2 Strutter existed -a two-seat fighter and a single-seat light bomber (modeled here). The bomber version, which the French re-designated the 1.B1, eliminated the rear crew position in order to carry a bomb load within the machine's fuselage. The French-built aircraft included a smaller empennage (tail section) which resulted in improved low-altitude performance. A total of 4,497 of both variants were manufactured by the French, more than three times the number built by the British.  
+The French continued to employ numbers of the aircraft well into 1918 and sold some of the French-built 1 1/2 Strutters to the air forces of the United States, Russia, Belgium, Romania, Japan and Greece. Many of these foreign exported machines fulfilled training roles. By the early 1920s the outdated 1 1/2 Strutters had passed from the scene.
+
+<b>Model Builder's Comments:</b> This model depicts an aircraft armed with a forward-firing Lewis gun mounted on the top wing. However, other sources indicate that the bomber variants were more commonly equipped with a propeller-synchronized machine gun mounted on the forward fuselage. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Escadrille SOP 107, Aviation Militaire (French Air Force), Western Front, June, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Sopwith Aviation Co Ltd
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhône 9Jb, 9 cylinder rotary air-cooled piston engine of 130 hp  
+<b>Performance:</b>
+Maximum Speed:  96 mph  
+Ceiling:  12,700 feet
+Endurance:  4 hours 15 minutes  
+Empty Weight:  not documented
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 33 feet 7 inches
+Length:  25 feet 1 inch
+Height:  10 feet 2 inches
+<b>Armament:</b> One fixed, forward-firing 0.303 inch Lewis machine gun mounted atop the upper wing, 600 lbs of bombs 
+<b>Crew:</b>1
+]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

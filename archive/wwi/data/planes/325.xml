@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="325" cos="Great Britain"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Sopwith Camel F.1]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Herbert Smith designed the Camel aircraft for the Sopwith Aviation Company. The aircraft evolved from the successful Sopwith Pup and retained many features of its predecessor. Its construction incorporated a wood frame, wire bracing and fabric covering, common among WWI aircraft. Many other companies in addition to Sopwith manufactured the Camel for both the Royal Flying Corps and the Royal Navy Air Service. These companies included Boulton Paul; British Caudron; Clayton and Shuttleworth; Hooper; March, Jones and Cribb; Nieuport and General; Portholme Aerodrome; and Ruston and Proctor. Deliveries of the aircraft commenced in May 1917. Eventually, 5,490 were delivered. 
+
+The Camel acquired its distinct name from the hump over the forward fuselage area. This area protected the craft's two machine guns from intense cold that could freeze the ammunition belts and jam the guns. When flown, the Camel incurred a huge amount of torque from its rotary engine and, consequently, could be difficult to fly. The number of fatalities during training on this aircraft equaled its combat fatalities. Experienced pilots, however, achieved great results with this fighter. Late in the War, the Sopwith Snipe replaced most of the Camels.]]>
+</history>
+<deployment>
+<![CDATA[This model represents the aircraft flown in combat over Northern Italy by Major W. C. Barker of No. 139 Squadron of the Royal Flying Corps against aircraft of the Austro-Hungarian Empire.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Sopwith Aviation Co Ltd
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> Clerget 9B, 9 cylinder air-cooled rotary piston engine of 130 hp (97 kW) 
+<b>Performance:</b>
+Maximum Speed: 115 (185 km/h) at 6,500 feet (1,980 m)
+Ceiling: 19,000 feet (5,791 m)
+Endurance: 2 hours 30 minutes
+Empty Weight: 929 pounds (421 kg)
+Loaded Weight: 1, 453 pounds (659 kg) 
+<b>Dimensions: </b>
+Span: 28 feet 0 inches (8.53 m)
+Length: 18 feet 9 inches (5.71 m)
+Height: 8 feet 6 inches (2.59 m)
+<b>Armament:</b> Two fixed, forward-firing synchronized 0.303 inch (7.7 mm) Vickers machine guns
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

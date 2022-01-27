@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="203" cos="France"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Morane-Saulnier Type AI]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Morane-Saulnier Type AI was an aircraft which tested very well, but which ended up with a very short operational career. The AI was a high-winged monoplane, constructed from metal and spruce. The primary wing braces were further supported by auxiliary struts attached mid-span. This arrangement proved to be very sturdy and would be reflected in the company's post-war designs. The Morane-Saulnier Type AI made its first test flights in August of 1917. The aircraft's performance at these tests was looked upon favorably and the Aviation Militaire placed an order for between 1,100 and 1,300 Type AIs, which arrived at combat escadrilles beginning in early 1918.
+
+Despite the favorable trials and large number of aircraft purchased for service, the Type AI only served in combat operations for a couple of months. Deliveries of production aircraft began in March of 1918. But by late May of that same year the Morane-Saulnier Type AIs had all been withdrawn from combat status and relegated to training duties at French flight schools. The reason for the rapid withdrawal of these aircraft is still unclear. One theory suggests that problems with the Gnome engine were to blame, while another suggests that structural weaknesses may have been the cause. Training versions of the Type AI replaced the Gnome engine with 120-135hp Le Rhône engines and a dedicated trainer variant was built with additional wing braces.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified escadrille, Aviation Militaire (French Air Force), Western Front, April, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Aéroplanes Morane-Saulnier
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Gnôme Monosoupape 9Nb, 9 cylinder air-cooled rotary piston engine of 150 hp (112 kW) 
+<b>Performance:</b>
+Maximum Speed: 138 mph (222 km/h) 
+Ceiling: 22,965 feet (7000 m)
+Endurance: 2 hours 30 minutes
+Empty Weight: 912 pounds (414 kg)
+Loaded Weight: 1,486 pounds (674 kg)
+<b>Dimensions: </b>
+Span: 27 feet 11 inches (8.51 m)
+Length: 18 feet 6 inches (5.64 m)
+Height: 7 feet 10 inches (2.39 m)
+<b>Armament:</b> Two fixed, forward-firing synchronized 0.303 inch Vickers machine guns mounted atop the forward fuselage 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

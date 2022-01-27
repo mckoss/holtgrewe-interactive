@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="217" cos="France"> 
+<type><![CDATA[Experimental Aircraft]]></type>
+<plnName><![CDATA[Dunne D.8 (1912)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Aeronautical engineer, John William Dunne experimented heavily in the design of aerodynamically stable aircraft, which would maintain level flight without direct contact with the controls. Many of Dunne's designs took the form of tailless "flying wings" like the one modeled here.
+
+Over the years, Dunne developed numerous versions of his flying wing design. His company, the Blair-Atholl Syndicate often licensed its designs to other aircraft firms for production. The aircraft modeled here most closely resembles the Dunne D.8, a variant from 1912 which was produced under license by the Short Brothers and the French firm, Nieuport. While the fuselage layout and long nose-over skid on the model are suggestive of the D.8, the twin propellers and four-wheeled undercarriage more closely resemble its immediate predecessor, the D.5. The experimental and constantly evolving nature of Dunne's designs has lead to many conflicting historical accounts.
+
+Though various militaries took an interest in Dunne's designs, it is unlikely any reached operational service. One D.8 was tested by the Royal Flying Corps in 1914. A few units of a later American-built variant, commonly referred to as the Burgess-Dunne Flying Wings, were delivered to the United States Army Air Service, the United States Navy and the Canadian Aviation Corps. The Canadian aircraft may have even shipped to Europe to participate in the War, but records indicate it was damaged in transit and never used.
+
+In August of 1913, Commandant Felix flew a D.8 from Eastchurch, England to Villacoublay, France where he made demonstration flights for the French Aeronautics Corps. Felix also over-flew Paris later that month. A production license was issued to the French firm, Nieuport, which exhibited a variant of the D.8 at the Paris Aero Show that year. However, it is unlikely that the French-built Dunne was ever produced for the military. The aircraft modeled here speculates on how a Dunne flying wing might look configured as a bomber.]]>
+</history>
+<deployment>
+<![CDATA[This model speculates on how a Dunne flying wing might look configured as a bomber of Escadrille 2, Aviation Militaire (French Air Force), 1914.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Blair-Atholl Syndicate
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Gnôme Monsoupape, 7 cylinder air-cooled rotary piston engine of 80 hp 
+<b>Performance:</b>
+These Specifications are for a Dunne D.8 taken from <i>British Aircraft 1809-1914</i> by Peter Lewis
+
+Maximum Speed: 55 mph (88.5 km/h) 
+Ceiling: not documented
+Endurance: 3 hours, 45 minutes 
+Empty Weight: 1,400 pounds (635.02 kg)
+Loaded Weight: 1900 pounds (861.83 kg)
+<b>Dimensions: </b>
+Span: 46 feet (14.02 m)
+Length: 25 feet 9 inches (7.85 m)
+Height: not documented
+<b>Armament:</b> Six 55 lb anti-personnel fragmentation bombs
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

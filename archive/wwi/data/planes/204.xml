@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="204" cos="France"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Nieuport 23]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Nieuport 23 was developed in an attempt to improve upon the very successful Nieuport 17 fighter. The Nie.23 included a new interrupter mechanism which required that the aircraft's Vickers gun to be mounted slightly off the aircraft's centerline. The aircraft also included a slightly modified rear spar and upper wing, and most Nie.23s were fitted with a larger 120 hp Le Rhône engine than the earlier Nie.17.
+
+The Nieuport 23 entered service in early 1917, but records suggest they were plagued with problems. A notice from the General Chef de Service Aéronautique suggests that the aircraft were likely prone to losing their lower wings while performing stressful maneuvers. The notice grounded the aircraft until the lower wings were replaced by those of the Nieuport 24 and reinforced with additional cables.
+
+Most Nieuport 23s were replaced by S.P.A.D. fighters by the summer of 1918, though some were flown in combat by the Belgian Air Force, the British Royal Flying Corps, the Imperial Russian Air Force and, on the Western Front, with the 23rd Escadrille of the Aviation Militaire and the famous Lafayette Escadrille. Although the Nieuports were relegated to a training role late in the war, designer Gustave Delage continued to improved the design and several improved models with larger engines were flown under the Nieuport-Delage name until the 1930s.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of the 23rd Escadrille, Aviation Militaire (French Air Force), Western Front, June, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Établissements Nieuport
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhône 9Jb 9 cylinder air-cooled rotary piston engine of 120 hp (89 kW)
+<b>Performance:</b>
+Maximum Speed: 103 mph (166 km/h) 
+Ceiling: 18,100 feet (5,517 m)
+Endurance: 2 hours 15 minutes
+Empty Weight: 827 pounds (375 kg)
+Loaded Weight: 1,179 pounds (535 kg)
+<b>Dimensions: </b>
+Span: 26 feet 9 inches (8.15 m)
+Length: 19 feet 0 inches (5.79 m)
+Height: 7 feet 10 inches (2.4 m)
+<b>Armament:</b> One fixed, forward-firing 0.303 inch (7.7mm) Vickers machine gun mounted on the upper starboard side of the forward fuselage
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

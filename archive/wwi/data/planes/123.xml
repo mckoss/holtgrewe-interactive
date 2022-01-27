@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="123" cos="Germany"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Otto C.I]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Otto C.I is an aircraft which has been largely lost in the annals of World War I history. Reports indicate that somewhere between three and nineteen C.Is were manufactured. As such, their obscurity is understandable. 
+
+The Otto C.I was a "pusher" type biplane (with its engine and propeller at the rear), designed and built by Gustav Otto and his aviation company, Flugmaschinen-Werke Gustav Otto, based in Munich, Bavaria. Indeed, Bavaria had its own Air Force- the Royal Bavarian Flying Corps and was somewhat independent of Germany. The Otto C.I prototype's framing and inter-plane struts were made of duralumin, not wood -advanced for the time. But most unusual were the Otto C.I's twin booms supporting its tail surfaces. The first prototype flew in May of 1915 with production aircraft being delivered to the Royal Bavarian Air Corps shortly thereafter. 
+
+The planes were immediately unpopular with their crews due to very sluggish performance and lack of mobility when attempting to evade enemy fighters. This was primarily the result of the substitution of steel for intended duralumin in the construction of the production models. The added weight this substitution inflicted was significant. 
+
+Otto C.Is had very brief combat careers and were quickly withdrawn from operational service by the Bavarian Air Corps, which modified some into training aircraft. The majority of the remaining C.Is were transferred to Germany's ally, Bulgaria, who initially deployed them in their intended role of reconnaissance However, by the spring of 1917, the Bulgarians also recognized the machines' deficiencies and restricted them to training duties. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Flieger-Abteilung 5b, Royal Bavarian Flying Corps, Eastern Front, July, 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Flugmaschinen-Werke Gustav Otto
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Benz BzIII liquid cooled engine of 150 hp
+<b>Performance:</b>
+Maximum Speed: 93 mph (150 km/hr) 
+Ceiling: 9,800 feet (2,987.04 m)
+Endurance: not documented 
+Empty Weight: 2,013 lbs (915 kg)
+Loaded Weight: 3,307 lbs (1,500 kg)
+<b>Dimensions: </b>
+Span: 47 feet 7 inches (14.50 m) 
+Length: 30 feet 10 inches (9.40 m)
+Height: 11 feet 0 inches (3.35 m)
+<b>Armament:</b> One 7.9mm (0.31 inch) Maxim infantry type water cooled machine gun in flexible mount at nose of fuselage, 88 lbs (40 kg) bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

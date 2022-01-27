@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="206" cos="France"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[SPAD XIII (S.13)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The SPAD XIII achieved incredible success during World War I. Louis Bechereau, the chief engineer of Société Pour L'Aviation et ses Dérivés (SPAD), designed several successful aircraft in this line, beginning with the SPAD VII. The new S.13 employed many of the same features of the S.7. Both aircraft included single-bay, interplane bracing, rod-and-crank aileron control, and a circular radiator located immediately behind the propeller. The new S.13 also made several improvements to the original design of the S.7. The S.13 was larger and faster. It possessed a more powerful engine, heavier armament and a completely different internal structure which made it far more robust. The S.13 prototype first flew on April 4, 1917. It performed exceptionally, and production began immediately.
+
+By April of 1918, the French Aviation Militaire had 372 S.13s in operation. The fighter proved to be highly successful and more than a match for Germany’s Albatros and Pfalz fighters. The S.13 performed so highly that it replaced most of France’s older S.7s and many of its newer Nieuport fighters. By the final months of the War, it equipped 80 French fighter escadrilles on the Western Front. 
+
+The SPAD S.13 also proved successful in the services of other countries. Eleven squadrons of the British, Belgian, Italian and American Air Forces adopted the new French fighter. It even replaced Sopwith fighters in some British units. Only the Italians retained numbers of the older S.7s in their air service, as some Italian pilots preferred their S.7s to the newer and heavier S.13s. 
+
+Overall, the demand for the new S.13 was so great that no less than eight French aviation companies, in addition to its parent firm, built the machines. Total production reached 8,472 aircraft. Several Allied aces flew the S.13 on their way to fame in the skies over France. The S.13 was the final SPAD fighter designed during World War I and concluded this highly successful line of aircraft. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of the Aviation Militaire (French Air Force), Western Front, August 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme pour l'Aviation et ses Derives (SPAD)
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Hispano-Suiza, BEc, 8 cylinder liquid-cooled inline V piston engine of 220 hp (164 kW)
+<b>Performance:</b>
+Maximum Speed: 135 mph (218 km/h) 
+Ceiling: 21,820 feet (6500 m)
+Endurance: 1 hour 40 minutes 
+Empty Weight: 1,326 lbs (604 kg) 
+Loaded Weight: 1,888 lbs (856 kg) 
+<b>Dimensions: </b>
+Span: 26 feet 6 inches (8.08 m) 
+Length: 20 feet 6 inches (6.25 m) 
+Height: 8 feet 7 inches (2.60 m) 
+<b>Armament:</b> Two fixed, forward-firing synchronized 0.303 inch (7.7 mm) Vickers machine guns
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

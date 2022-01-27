@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="140" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Pfalz Dr.I]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Pfalz Dr.I was a single-seat triplane, which represented Pfalz Flugzeugwerke's answer to the German Idflieg's (Inspectorate of Flying Troops) call for triplane fighters -the same request which resulted in the infamous Fokker Dr.I. Inspired by the success of the British Sopwith Triplane, German designers hoped that adding a third wing to an aircraft would improve its lift, climb rate and maneuverability.
+
+The new Pfalz machine was essentially a D.VII fitted with a third wing. The two aircraft shared the same armament and the same 160 hp Siemens-Halske rotary engine. The middle wing of the Dr.I was half the cord of the upper and lower wings, and unlike the clean lines of the Fokker triplane, retained an array of bracing wires. The Pfalz Dr.I otherwise exhibited typical World War I construction with wood framing throughout. A smooth plywood veneer covered its fuselage and fabric covered its wings and tail surfaces. 
+
+Flight trials of the first prototype yielded sufficient promise that a preproduction batch of ten machines was ordered by the German High Command. These arrived on the Western Front in early April of 1918 but their pilots found them to have little to no advantage over the latest variants of the German Albatros and Fokker fighters already in service. There is some indication that the Pfalz triplane possessed a better climb rate than the Fokker Dr.I -making it best suited for bomber intercept missions. However, a lack of improved performance combined with frequent engine problems halted production after the first batch. 
+
+Despite their shortcomings, the existing ten aircraft served in German fighter units until the Armistice ended World War I on November 11, 1918 -just seven months after the Pfalz Dr.I's introduction into service.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Jagdstaffel (squadron) 15, German Air Force, Western Front, late April, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Pfalz Flugzeugwerke GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Siemens-Halske Sh.III, 11 cylinder air-cooled rotary piston engine of 160 hp (119 kW)
+<b>Performance:</b>
+Maximum Speed: 118 mph (190 km/h) 
+Ceiling: 19,680 feet (6000 m)
+Endurance: 1 hour 30 minutes 
+Empty Weight: 1,124 pounds (510 kg)
+Loaded Weight: 1,554 pounds (705 kg) 
+<b>Dimensions: </b>
+Span: 28 feet 1 inch (8.55 m)
+Length: 18 feet 0 inches (5.49 m)
+Height: 9 feet 1 inch (2.76 m)
+<b>Armament:</b> Two fixed, forward-firing synchronized 7.9 mm (.311 inch) LMG 08/15 machine guns 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

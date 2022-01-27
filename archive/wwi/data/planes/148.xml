@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="148" cos="Germany"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[DFW C.V]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Early in World War I both Germany and its ally, the Austro-Hungarian Empire, designated their reconnaissance aircraft as "C-class" machines, a policy which extended throughout the War. In late 1915 the German aircraft manufacturing company Deutsche Flugzeug Werke (D.F.W.) began designing a new C-class reconnaissance platform -the D.F.W. C.V. The new aircraft first flew in May of 1916 and began equipping operational units of the German Air Force the following summer. The success of the machine can be best judged by the fact that about 1,000 were built during the War -the most of any single German aircraft type. 
+
+The C.V was constructed with wood framing covered by a doped fabric skin, but its engine was enclosed in a rounded aerodynamically smooth metal cowling. The cowling was unusual at a time when the cylinder heads of inline engines were usually open and exposed to an aircraft's slip stream. The D.F.W. C.V was highly regarded by its crews and respected for its speed, maneuverability, toughness and reliability. In the hands of a skilled pilot the D.F.W. C.V was agile enough that it could escape most Allied fighters. This meant it could operate independently without the need of a fighter escort -a distinct advantage. The machine saw extensive service and became the "workhorse" of German aerial reconnaissance. Not until the late summer of 1918 did more modern reconnaissance aircraft begin to replace it. However, the sheer numbers of D.F.W. C.Vs in service made the transition a slow process. Further, many German airman preferred the older C.V to newer machines. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified reconnaissance unit of the German Air Force, Western Front, Summer, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Deutsche Flugzeug Werke (DFW)
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Benz Bz IV, 6 cylinder liquid-cooled inline piston engine of 200 hp (149 kW) 
+<b>Performance:</b>
+Maximum Speed: 97 mph (156 km/h) at 3,280 feet (1,000 m) 
+Ceiling: 16,400 feet (4,999 m)
+Endurance: 3 hours 30 minutes 
+Empty Weight: 2,134 pounds (968kg)
+Loaded Weight: 3,160 pounds (1,433 kg)
+<b>Dimensions: </b>
+Span: 43 feet 6 inches (13.26 m) 
+Length: 25 feet 10 inches (7.87 m) 
+Height: 10 feet 8 inches (3.25 m)
+<b>Armament:</b> One fixed, forward-firing synchronized 7.9 mm (0.31 inch) Spandau machine gun mounted on the starboard side of the forward fuselage, one 7.9 mm (0.31 inch) Maxium IMG Parabellum machine gun on a flexible mount in rear cockpit, 100 kg (220 pounds) of bombs 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

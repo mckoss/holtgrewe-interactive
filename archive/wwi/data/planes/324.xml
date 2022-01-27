@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="324" cos="Great Britain"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Sopwith Pup]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Sopwith Pup was designed by Sopwith engineer Harry Hawker as a fighter/interceptor with the first prototypes flying in late February, 1916. It closely resembled the 11/2 Strutter aircraft from which it was partly derived. The Sopwith Company had named the aircraft "Sopwith Scout," but an unofficial nickname was quickly given to the new aircraft of "Pup." This affectionately applied nickname stuck, and the machine was forever called "The Sopwith Pup." It remains unclear how this nickname transpired since the "Pup" was no smaller than several other fighter aircraft in operation at the time. One story suggests that its crews felt it was the offspring of the 11/2 Strutter.
+
+The Pup was made of wooden framing throughout, with a doped fabric covering and thin metal sheeting over its forward fuselage and metal engine cowling. Designed as a biplane, its wings were of equal cord and length, but were slightly staggered. Production models were fitted with an 80 hp Le Rhône engine, and a single Vickers gun synchronized to fire through the propeller.
+
+The Pup began equipping combat fighter units of the Royal Flying Corps on the Western Front in September of 1916. Its performance was outstanding and it remained in active frontline fighter service until the late autumn of 1917. Most Pups were then withdrawn from the Western Front and were returned to England where they were deployed in homeland defense against the German bombers and Zeppelin airships. In an effort to improve their speed and performance in this home-defense role, most Pups underwent an engine change and were given 100 hp Gnôme Monosoupape engines. Some Pups were also fitted with Le Prieur rockets, which had proven to be superior to machine guns in destroying German Zeppelins. 
+
+Production of the Sopwith Pup continued through the summer of 1918 with a total of 1,770 being manufactured. A number of Pups were deployed by the Royal Naval Air Service aboard the British aircraft carriers <i>Campania</i>, <i>Furious</i> and <i>Manxman</i>. As such, they were among the first aircraft to fly from a warship.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of No. 54 Squadron, Royal Flying Corps, Le Hameau, France, April, 1917. ]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Sopwith Aviation Co Ltd
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Le Rhône 9C, 9 cylinder air-cooled rotary piston engine of 80 hp (60 kW) 
+<b>Performance:</b>
+Maximum Speed: 111 mph (179 km/h) 
+Ceiling: 17,500 feet (5,334 m)
+Endurance: 3 hours 
+Empty Weight: 787 pounds (357 kg)
+Loaded Weight: 1,225 pounds (556 kg)
+<b>Dimensions: </b>
+Span: 26 feet 6 inches (8.08 m) 
+Length: 19 feet 4 inches (5.89 m) 
+Height: 9 feet 5 inches (2.87 m)
+<b>Armament:</b> One fixed, forward-firing 0.303 inch (7.7 mm) synchronized Vickers machine gun mounted on the forward fuselage, (optional) 8 Le Prieur rockets (4 mounted on struts between the wings on each side) 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="106" cos="Turkey"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Albatros D.II (L17)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Albatros D.II represents one in a line of consistently improved Albatros fighters. The D.II modified a few features of the previous D.I including a lowered top wing with a larger cutout over the cockpit. These modifications provided better forward and upward visibility for the pilot. The D.II was designed by Herren Thelen, Schbert and Gnadig, three aeronautical engineers with Albatroswerke GmbH. The D.II was built not only by its parent company but also under license by the German company LVG (Luft-Verkehrs-Gesellschaft). 
+
+Albatros D.IIs arrived on the Western Front in November 1916. By January 1917, over 200 had joined the fighter units of the Central Powers. To counter the D.IIs, the Allies introduced their new fighters - French SPADs and Nieuports and the new British Sopwiths. In turn, the Germans produced their new Albatros D.IIIs and Vs and Fokker fighters. These newer machines out-performed the older Albatros D.IIs, which were gradually withdrawn from frontline fighter units. 
+
+After the withdrawal of the D.IIs, Germany sent many of these now-surplus machines to the Ottoman Empire. The Ottoman Air Force needed an aircraft to patrol the vast desert areas of the empire and to control British-backed Arab insurgencies. After a small modification, the D.II served this purpose. The original design of the D.II featured two radiators located one on each side of the forward fuselage. Operating in desert heat, these radiators would often boil over. To avoid this, the dual radiators were replaced by a single flush mounted radiator placed in the center of the upper wing.
+
+The historical records of World War I are unclear about the success or failure of the D.IIs while serving with the Ottoman Air Force in the Middle East. It is known that they remained with Ottoman fighter units until the war's end in November 1918.]]>
+</history>
+<deployment>
+<![CDATA[This model represents a single seat biplane fighter, Palestine, November 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Albatroswerke GmbH
+<b>Country of Manufacture:</b> Germany<br /><b>Power plant:</b> One Daimler D.III, 6 cylinder liquid cooled inline piston engine of 160 hp (119.4kW) <br /><b>Performance:</b>
+Maximum Speed: 109 mph (175Km/h)
+Ceiling: 15,420 feet (4,700 m)
+Range: Endurance 1 hour 30 minutes     
+Empty Weight: 1,404 pounds (637kg)
+Loaded Weight: 1,958 pounds (888 kg)
+<b>Dimensions: </b>
+Span: 27 feet 11 inches (8.51m)
+Length: 24 feet 3 inches (7.40m)
+Height: 8 feet 6 inches (2.59m)
+<b>Armament:</b> Two fixed forward firing 7.9mm (.31 inch) LMG 08/15 machine guns
+<b>Crew:</b>1]]>
+</technicalSpecs>
+</holtPlane>

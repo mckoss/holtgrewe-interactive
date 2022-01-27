@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="331" cos="Great Britain"> 
+<type><![CDATA[Infantry Support Aircraft]]></type>
+<plnName><![CDATA[Sopwith Salamander (2.T.F.1, T.F.2)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Sopwith T.F.2 was developed to meet the British Air Ministry's need for an armored ground attack aircraft. Though officially designated "T.F." for "Trench Fighter", the T.F.2 quickly acquired the nickname, "Salamander". The Salamander was essentially a modified version of the Sopwith Snipe fighter aircraft. The Salamader looked very similar to its predecessor, and utilized the same powerplant -the Bentley B.R.2 230 hp (172 kW) engine. However, the forward fuselage of the Salamander was an armored box surrounded by steel plates: 0.43 inches (11 mm) on the bottom, 0.31 inches (8 mm) on the front, 0.23 inches (6 mm) on the sides and 0.39 inches (10 mm) behind the cockpit. This armor protected the pilot, engine and fuel tanks from ground fire. Experimental configurations of the Salamander also carried up to eight guns firing down through the floor of the fuselage.
+
+Despite the weight added by the armor, the Salamander's speed was not dramatically reduced. Its maneuverability was, however, adversely affected. Designers felt this was not critical given the new machine's mission. By the War's end, at least 37 Salamanders had been delivered to the Royal Air Force. The concept of aerial ground attack was new and British pilots had no experience in such operations. Air crews were still in training with their new armored Salamanders when the War ended with only a few aircraft having reached France. Production of the Salamander continued until the middle of 1919 with a total of 334 built by Sopwith and 85 by the other manufacturers. None ever saw combat but the concept of aerial ground attack proved vital during World War II and continues to be so today. The Sopwith Salamander began it all.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified squadron, Royal Air Force, England, November 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Sopwith Aviation Co Ltd
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Bentley B.R.2, 9 cylinder air-cooled rotary piston engine of 230 hp (172 kW)
+<b>Performance:</b>
+Maximum Speed: 125 mph (201 km/h) 
+Ceiling: 13,000 feet (3962 m)
+Endurance: 1 hour, 30 minutes 
+Empty Weight: 1844 pounds (836 kg)
+Loaded Weight: 2512 pounds (1139 kg)
+<b>Dimensions: </b>
+Span: 31 feet 2 inches (9.50 m)
+Length: 19 feet 6 inches (5.94 m)
+Height: 9 feet 4 inches (2.84 m)
+<b>Armament:</b> Two fixed forward firing synchronized 0.303 inch (7.7 mm) Vickers machine guns, eight 50 pound (22.7 kg) anti-personnel fragmentation bombs.
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

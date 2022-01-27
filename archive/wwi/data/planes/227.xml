@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="227" cos="Italy"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Nieuport 17]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[This model represents the Nieuport 17 aircraft, which was designed by Gustave Delage, the chief aeronautical engineer of the French aircraft firm Société Anonyme des Etablissments. While large numbers of Nieuport 17s were built in France, the Nieuport-Macchi company in Italy also constructed them under license. The Nieuport 17 retained the characteristic sesquiplane wing of the previous Nieuport crafts (including the Nieuports 10, 11, and 16). This sesquiplane design made the Nieuport 17 one of the most maneuverable aircraft of the period. The Nieuport 17 was slightly larger than the Nieuport 11, had a larger engine, and included a synchronized machine gun that fired through the propeller. 
+
+The Nieuport 17 entered the war on the Western Front early in 1916. It was used by the French Aviation Militaire and some of the Lafeyette Escadrille. The air services of Great Britain, Belgium, Russia, the Netherlands and the United States also employed the Nieuport 17 and The 70th Squadriglia of the Italian Air Force, flew this aircraft on the Italian-Austro-Hungarian Front in April of 1917. However, in early 1917, the French officially declared the Nieuport 17 obsolete and replaced them with the new French SPAD.
+
+<b>Model Builder's Comments:</b> The prototype of this model had the 70th Squadriglia's insignia (a rearing black stallion) on its top wing and on both sides of its fuselage waist. The model replicates these markings.]]>
+</history>
+<deployment>
+<![CDATA[This model is painted in the colors of World War I Italian ace Capitanio Francesco Baracca. He achieved several of his 34 victories in this type of aircraft.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Nieuport-Macchi
+<b>Country of Manufacture:</b> Italy
+<b>Power plant:</b> One LeRhône 9J, 9 cylinder air-cooled rotary piston engine of 110 hp (82 kW)
+<b>Performance:</b>
+Maximum Speed: 103 mph (165 km/h)
+Ceiling: 17390 feet (5,300 m)
+Range: 155 miles (250 km)
+Empty Weight: 827 pounds (375 kg)
+Loaded Weight: 1235 pounds (560 kg)
+<b>Dimensions: </b>
+Span: 26 feet 9 inches (8.15 m)
+Length: 19 feet 0 inches (5.8 m)
+Height: 7 feet 10 inches (2.40 m)
+<b>Armament:</b> One fixed, forward-firing synchronized .303 inch Vickers machine gun
+<b>Crew:</b>1
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

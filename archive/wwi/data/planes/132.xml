@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="132" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Fokker E.III (M 14)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Dutch aircraft designer, Anthony Fokker drew inspiration for the Fokker E-series of <i>Eindecker</i> (monoplane) aircraft from the French Morane-Saulnier Type H monoplane. After the outbreak of World War I in August 1914, the German High Command ordered numbers of Fokker's new aircraft for the German Air Force and designated them Fokker E.Is. The Fokker E.I was followed by new E.II, E.III and E.IV variants. The E.III (modeled here) was produced in the largest numbers. While all the Fokker monoplanes retained a similar appearance, the E.III had a more powerful engine than its predecessors.
+
+The Fokker E-series possessed a new and revolutionary device -a propeller synchronized machine gun. Rods connected the aircraft's rotary engine to the gun, which allowed it to fire without risk of hitting the propeller. Fokker called his new device "Stangensteuerung" - or "push-rod control." The accuracy afforded by this device gave the Central Powers an advantage in air power on the Western Front. Though only about 300 of the Fokker <i>Eindeckers</i> were built, they proved so effective that the Allies came to call these aircraft "the <i>Eindecker</i> Scourge." 
+
+Despite their successful introduction, the service careers of the Fokker monoplanes were brief -extending from July 1915 to early 1916. By 1916, the Allies had introduced new, better performing machines that could compete with the <i>Eindeckers</i>. The E-series was soon retired from frontline fighter units, though a few lingered on briefly as trainers. By 1917 they had disappeared.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Feld Flieger Abteilung 53, German Air Force, Eastern France, October 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Fokker Aeroplanbau GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Oberursel U.I, 9 cylinder rotary air-cooled piston engine of 100 hp (75 kW)
+<b>Performance:</b>
+Maximum Speed: 87 mph (140 km/h) 
+Ceiling: 11,812 feet (3500 m)
+Range: 149 miles (240 km) 
+Empty Weight: 880 pounds (399 kg)
+Loaded Weight: 1342 pounds (609 kg)
+<b>Dimensions: </b>
+Span: 31 feet 3 inches (9.53 m)
+Length: 23 feet 7 inches (7.19 m)
+Height: 7 feet 10 inches (2.39 m)
+<b>Armament:</b> One fixed, forward-firing synchronized 7.92mm (.315 inch) LMG 08/15 machine gun 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

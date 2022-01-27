@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="240" cos="Italy"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Pomilio E (PE)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Designed in early 1917 and built by the Italian firm O. Pomilio and Company, the Pomilio PE became the primary reconnaissance platform for the Italian Air Force during the last year of the War. The PE was a refinement of the earlier Pomilio PC and PD models and corrected some of their stability problems.
+
+The aircraft's construction was of wood framing with fabric covering except the area about the forward fuselage which had steel tubular framing covered with metal sheet. The Pomilio PE was, as fast as most fighter aircraft of the time. It was agile and had a high rate of climb. These attributes allowed it to conduct its reconnaissance sorties without a fighter escort -a distinct advantage. Early Pomilio PE's were equipped with 260 h.p. Fiat liquid-cooled engines. Later units were provided with upgraded 300 h.p. Fiat powerplants, giving them even better performance. 
+
+The PE was manufactured in very large numbers with some 1,071 being built. This was in addition to the 545 PC and PD models built. Indeed, demand for the machine was such that besides its parent company the Pomilio PE was produced under license by several other Italian aircraft firms. 
+
+The Pomilio PE had a distinguished career and was widely deployed for reconnaissance and artillery spotting. It remained in active service over the Italian Front until the War's end. It equipped 30 reconnaissance units of the Italian Air Force. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents a reconnaissance aircraft of the Corpo Aeronautico Militare (Italian Air Force) during the summer of 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> O. Pomilio and Company
+<b>Country of Manufacture:</b> Italy
+<b>Power plant:</b> One Fiat A12 bis, 6 cylinder liquid-cooled inline piston engine of 300 hp (224 kW)
+<b>Performance:</b>
+Maximum Speed: 121 mph (195 km/h)
+Ceiling: 16,400 feet (5,000 m)
+Endurance: 3 hours 30 minutes 
+Empty Weight: not documented
+Loaded Weight: 3,384 pounds (1,535 kg)
+<b>Dimensions: </b>
+Span: 38 feet 9 inches (11.81 m)
+Length: 29 feet 4 inches (8.95 m)
+Height: 11 feet (3.35 m)
+<b>Armament:</b> One fixed forward firing 8 mm (0.315 in) Fiat-Revelli machine gun mounted on upper wing, one similar weapon in flexible mount in rear cockpit, or (as modeled here), one 0.303 inch (7.7mm) Lewis machine gun in flexible mount in rear cockpit, six 55 lb. (25 kg) bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

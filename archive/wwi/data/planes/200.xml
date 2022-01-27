@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="200" cos="France"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Morane-Saulnier Type L (Mo.S.3)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Morane-Saulnier Type L developed from the pre-war Type G to serve as an artillery spotter and reconnaissance aircraft. The Type L maintained the slab-sided fuselage, wing shape and wing-warping control method of its predecessor. However, the Type L switched to a parasol-style wing, which afforded better downward visibility for the aircraft's observer.
+
+Early in World War I, the Type L quickly became the preferred mount over the Types G and H. Once operational, the aircraft was employed as an artillery spotter, light bomber and a fighter. The Type L's intended armament consisted of a single Lewis gun operated by the observer. In 1914, however, French pilot, Roland Garros became the first recorded pilot to mount a machine gun atop the fuselage to fire through the propeller. Garros used steel deflection plates to protect his propeller from the bullets. in April, 1915 Garros shot down three enemy aircraft in as many weeks. 
+
+More than 600 Morane Saulnier aircraft operated in combat with multiple Escadrilles over the Western Front before being replaced by more modern Nieuport and S.P.A.D. aircraft in late 1916. Many of France's leading aces, including George Marie Guynemer, experienced their first combat in the Morane-Saulnier Type L and it is considered by some to be the grandfather of fighter aircraft.
+
+<b>Model Builder's Comments:</b> This model depicts a modified Type L with a forward-firing machine gun. The model is also a single-seat aircraft while the standard Type L was a two-seater.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified fighter escadrille of the Aviation Militaire (French Air Force), Western Front, April, 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Aéroplanes Morane-Saulnier
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhône 9C, 9cylinder air-cooled rotary piston engine of 80 hp (60kW) 
+<b>Performance:</b>
+Maximum Speed: 71 mph (114 km/h) at 6,500 feet (1981 m)
+Ceiling: 13, 123 feet (4,000 m)
+Endurance: 2 hours 30 minutes
+Empty Weight: 849 pounds (385 kg)
+Loaded Weight: 1,441 pounds (385 kg)
+<b>Dimensions: </b>
+Span: 36 feet 9 inches (11.20 m)
+Length: 22 feet 6 inches (6.86 m)
+Height: 12 feet 10 inches (3.9 m)
+<b>Armament:</b> One fixed, forward-firing 8mm (.314 inch) Hotchkiss machine gun mounted atop forward fuselage 
+<b>Crew:</b>1
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

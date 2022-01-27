@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="334" cos="Great Britain"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[de Havilland (Airco) D.H.6]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The D.H.6 was designed by the famous Geoffrey deHavilland, chief aeronautical engineer with the British aviation firm Aircraft Manufacturing Company Ltd. (Airco). Originally intended to serve as a two-seat trainer for the Royal Flying Corps and the Royal Naval Air Service, many were modified into single-seat maritime patrol aircraft because of their ease of handling, flight stability and endurance. The reconnaissance version (modeled here) replaced one crew member with a long-range fuel tank and added a small bomb load. 
+
+D.H.6 trainers entered service at flight schools in early autumn of 1917 and naval reconnaissance variants began equipping units of the Royal Naval Air Service a few weeks later; both versions were popular with their pilots. Documentation of the of the D.H.6's record against submarines and surface vessels is not available. However, they continued to be deployed by the Royal Naval Air Service until the end of the war. Although the aircraft was slow and carried a small bomb-load, the de Havilland (Airco) D.H.6 must be considered one of the most effective light coastal reconnaissance bombers of World War One.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of No. 47 Squadron, Royal Naval Air Service, Royal Naval Air Station, Pembroke Dock, Wales, United Kingdom, June, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Aircraft Manufacturing Co Ltd (Airco)
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Royal Aircraft Factory (R.A.F.) 1a, 8 cylinder air-cooled inline V piston engine of 100 hp (75 kW) 
+<b>Performance:</b>
+Maximum Speed: 66 mph (106 km/h)
+Ceiling: not documented 
+Endurance: 4 hours 45 minutes
+Empty Weight: 1,460 pounds (661 kg)
+Loaded Weight: 2,027 pounds (918 kg)
+<b>Dimensions: </b>
+Span: 35 feet 11 inches (10.92 m)
+Length: 27 feet 3 inches (8.28 m)
+Height: 10 feet 9 inches (3.27 m)
+<b>Armament:</b> 100 lbs (45kg) bombs
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

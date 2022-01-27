@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="226" cos="Belgium"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Nieuport 16]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Nieuport 16 was essentially a transitional model between the Nie.11 and the Nie.17. The only structural difference between the Nie.16 and its predecessor was the inclusion of a more powerful 110 hp Le Rhône engine. The increase in engine power improved the Nie.16's performance characteristics over the Nie.11. However, because the two aircraft had the same dimensions, the Nie.16's larger engine created greater wing-loading and, in the even of engine failure, would cause the aircraft to nose over during a crash landing. The Nie.16 retained the same standard armament of the Nie.11 -a single Lewis machine gun mounted on the upper wing- though some later aircraft utilized the Alkan synchronizing mechanism to allow guns, mounted forward on the fuselage, to fire though the propeller. 
+
+The Nie.16 began replacing the earlier Nie.11 on the Western Front in 1916. In addition to the Aviation Militaire, it served with the Belgian Air Force (modeled here), the British Royal Flying Corps and the Royal Naval Air Service. They were also flown by the famous Lafayette Escadrille. A number of the aircraft were also built under license by Russian firm, Dux. These aircraft served with the Russian Air Service until the revolution of 1917. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified fighter escadrille of the Aviation Militaire Belge (the Belgian Air Force), Western Front, March, 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Établissements Nieuport
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhône, 9 cylinder air-cooled rotary piston engine of 110 hp (82 kW)
+<b>Performance:</b>
+Maximum Speed: 103 mph (166 km/h)
+Ceiling: 16,100 feet (4,907 m)
+Endurance: 2 hours 15 minutes
+Empty Weight: 827 pounds (375 kg)
+Loaded Weight: 1213 pounds (550 kg)
+<b>Dimensions: </b>
+Span: 24 feet 8 inches (7.52 m)
+Length: 18 feet 6 inches (5.64 m)
+Height: 7 feet 10 inches (2.40 m)
+<b>Armament:</b> One 0.303 inch (7.7mm) Lewis machine gun mounted on top of the upper wing firing over the propeller arc
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

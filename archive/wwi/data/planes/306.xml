@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="306" cos="Great Britain"> 
+<type><![CDATA[Trainer]]></type>
+<plnName><![CDATA[Grahame-White Type XV Boxkite]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Grahame-White Box-kite was first developed in 1912 by Claude Grahame-White, founder of Britain's first flying school at Hendon. The aircraft served as a trainer for students at the school before being converted for military use. The Box-Kite appeared in several different variants as time progressed and there is some debate as to how that progression should be characterized. Some scholars refer to the Box-Kite as the predecessor to the Grahame-White Type XII and Type XV, while others state that all the variants of the machine were eventually renamed to the Type XV.
+
+The earliest version of the aircraft resembled the Farman biplane of 1909. It included both fore and aft elevators, a pusher engine and was controlled from an exposed position directly over the mid-point of the lower wing. Later variants, like the one modeled here, included a pilot's nacelle, more powerful engines and wings with a staggered span.
+
+In November of 1913, a Box-kite piloted by Marcus Manton participated in an air-firing test at Bisley, England. The plane was equipped with a Lewis machine gun and the gunner, Lieutenant Stellingwerf, successfully managed to hit ground targets during two passes of the target range, thus demonstrating the potential for the airplane as a weapon of war.
+
+The Grahame-White XV began equipping flight schools for the Royal Flying Corps and the Royal Naval Air Service in December of 1913 and served as a basic training aircraft. The Grahame-White Type XV modeled here is based on a late variant in the series -likely from 1916. The aircraft depicted was based at the Royal Flying Corps aerodrome at Hendon, north of London. 
+
+<b>Model Builder's Comments:</b> This model incorporates a compilation of features from several Grahame-White variants. The pilot nacelle and staggered wings suggest it is a later model, but the large anti-nose-over skids on the aircraft's undercarriage were mostly used in early versions. The model also shows a 9 cylinder engine consistent with the 1913 version but with an installation appropriate for the 1916 model. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents a two-seat trainer, Hendon, England.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Grahame-White Aviation Co, Ltd
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Gnôme Le Rhône, 7 cylinder rotary air-cooled piston engine of 80 hp (60kW) 
+<b>Performance:</b>
+Maximum Speed: 59 mph (95 km/h)
+Ceiling: 8,530 feet (2,600)
+Endurance: 3 hours, 15 minutes 
+Empty Weight: 1,445 pounds (655kg)
+Loaded weight: not documented
+<b>Dimensions: </b>
+Span: 27 feet 8 inches 
+Length: 23 feet 5 inches 
+Height: 11 feet 2 inches
+<b>Armament:</b> none
+<b>Crew:</b>2
+]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="151" cos="Germany"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[LVG C.II]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The LVG C.II (modeled here) was designed and built by the German aircraft company Luft-Verkehrs GmbH (LVG) as an armed-reconnaissance aircraft capable of defending itself against improved allied air defenses. The C.II was constructed of standard wood framing. The cockpit was enclosed in plywood, while the rear fuselage, wings and tail surface were covered with doped fabric. This model depicts an aircraft with sheeting extending back past the cockpit. While some references hint that some LVG aircraft may have been configured with similar "armor", it is unclear if such a configuration was ever applied to a C.II. 
+
+Perhaps the LVG line's most famous moment occurred on November 28, 1916 when a specially fitted machine flew over London and dropped six 22 lb bombs on Victory Station. Some records indicate that the aircraft involved was a C.II, while others cite it as a later C.IV model. All the LVG variants appeared similar externally, differing only in their power plants and in their internal framing. This makes it difficult for historians to distinguish between model types, and as such, considerable discrepancies exist between sources. While the attack caused considerable civilian panic and consternation, it caused little damage. 
+
+LVG C type aircraft, of all variants, remained in front line service until the War's end. In August of 1918 no fewer than 500 LVG C types were flying for the German Air Force.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified unit of the German Air Force.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Luft-Verkehrs GmbH (LVG)
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Mercedes D III, 6 cylinder inline liquid cooled piston engine of 160 hp (119 kW)
+<b>Performance:</b>
+Maximum Speed: 81 mph (119 km/h)
+Ceiling: 19,685 feet (6,000 m)
+Endurance: 4 hours 
+Empty Weight: not documented
+Loaded weight: 3097 lbs (1,405 kg)
+<b>Dimensions: </b>
+Span: 42 feet 2 inches (12.85 m)
+Length: 26 feet 7 inches (8.10 m)
+Height: 9 feet 7 inches (2.93 m)
+<b>Armament:</b> One Maxim IMG 7.9 mm (0.31 in) Parabellum machine gun in flexible mount in rear cockpit, up to 60 kg (132 lbs) of bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

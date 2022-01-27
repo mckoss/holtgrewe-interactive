@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="101" cos="Austria-Hungary">    
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Aviatik (Berg) D.I]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Aviatik D.I was the first single-seat fighter entirely designed, built and produced in large quantity by the Austrians. The work of Julius von Berg, chief engineer of the Vienna firm Österreichisch-Ungarische Flugzeugfabrik Aviatik, the D.I was often referred to as the "Berg Scout" in recognition of its designer. A fighter intended for operations on the Italian Front, the Aviatik fighter was developed to replace the unpopular Hansa-Brandenberg D.I, which had earned the ominous nickname, "The Flying Coffin". 
+
+The new Aviatik D.I utilized conventional construction techniques for the time -wood framing with a thin plywood veneer covering of its fuselage and doped fabric covering of its wings and tail surfaces. However, Berg also incorporated some unusual design features into the aircraft. When it became apparent early on that two side-mounted radiators were insufficient to cool the D.I's engine, Berg shifted to a large car-type unit built in the nose. The pilot also sat relatively high in the cockpit, placing his eye-line just below the upper wing, affording him good all-around visibility.
+
+Initial trials of an unarmed Aviatik D.I prototype were conducted on January 24, 1917 and showed the machine to have considerable promise. It was ordered into production by the Austro-Hungarian High Command with the first armed production aircraft entering service with Fliks (squadrons of the Austro-Hungarian Air Force) during the spring. Over 700 of the type were eventually manufactured by Aviatik and under license by other Austrian aviation firms, including Lohner, Lloyd, and Thöne und Fiala.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Flik 18, Luftfahrtruppe (Austro-Hungarian Air Force), Western Front, November, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Aviatik
+<b>Country of Manufacture:</b> Austria-Hungary<br /><b>Power plant:</b> One Austro-Daimler, 6 cylinder inline liquid cooled piston engine of 200 hp (149 kW) <br /><b>Performance:</b>
+Maximum Speed: 115 mph (185 km/h)  
+Ceiling: 20,177 feet (6150 m)
+Endurance: 2 hours 30 minutes  
+Empty Weight: 1,345 pounds (610 kg)
+Loaded Weight: 1,880 pounds (852 kg)
+<b>Dimensions: </b>
+Span: 26 feet 3 inches (8.00 m)
+Length: 22 feet 9 inches (6.93 m)
+Height: 8 feet 2 inches (2.49 m)
+<b>Armament:</b> Two fixed forward firing synchronized 8 mm (.315 inches) Schwarzlose M7/12 machine guns, one mounted in an enclosed housing on each side of the forward fuselage
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>

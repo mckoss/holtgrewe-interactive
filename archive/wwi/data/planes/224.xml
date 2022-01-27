@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="224" cos="France"> 
+<type><![CDATA[Bomber]]></type>
+<plnName><![CDATA[Caudron Type G.4]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Caudron brothers developed the G.4 to meet the Aviation Militaire's need for a more powerful "cooperation" aircraft -so-called because it's primary mission was to cooperate with ground forces by providing reconnaissance and spotting for artillery. The G.4 was a maze of bracing wires with twin tail booms and an armed gunner-observer compartment forward of the cockpit. The aircraft's two engines were housed in streamlined nacelles suspended between its upper and lower wings. Caudron developed several variants of the G.4 for different missions -the A2 for reconnaissance, the B2 for bombing (modeled here) and the E2 for training.
+
+Caudron built a total of 1,358 G.4s during the course of World War I, which began operational service during the summer of 1915. Blériot, S.P.A.D. and Italian manufacturer A.E.R. also built the G.4 under license. The Italians found that the G.4's strong rate of climb and high ceiling made it well suited to operations over the Alps. The British Royal Naval Air Service also acquired several G.4s and assigned them to raids against German seaplane and Zeppelin bases in Belgium. However, the aircraft's inability to defend against attacks from behind soon led the Aviation Militaire to order a better armed reconnaissance aircraft. Some of the bombers remained in Italian service in the later months of the war but by 1918 they disappeared from the Western Front. None were operational outside Europe.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of the 3rd Bomber Escadrille, Aviation Militaire, Western Front, December, 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Avions Caudron
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> Two Le Rhône, 9 cylinder air-cooled rotary piston engines of 80 hp (60 kW)
+<b>Performance:</b>
+Maximum Speed: 82 mph (132 km/h)
+Ceiling: 13,110 feet (3,985 m)
+Endurance: 3 hours 30 minutes 
+Empty Weight: 1,807 pounds (820 kg)
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 55 feet 5 inches (16.88 m)
+Length: 23 feet 11 inches (7.3 m)
+Height: 8 feet 5 inches (8.42 m)
+<b>Armament:</b> One 0.303 inch (7.7mm) Lewis machine gun in flexible mount in rear cockpit, 249 pounds (113 kg) of bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

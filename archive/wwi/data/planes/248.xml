@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="248" cos="Russia"> 
+<type><![CDATA[Bomber]]></type>
+<plnName><![CDATA[Sikorsky S-23 <i>Il'ya Muromets</i> Veh]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Russian Aircraft Designer, Igor Sikorsky originally developed the <i>Il'ya Muromets</i> as a large transport aircraft. Named for a popular Russian folk hero, the <i>Il'ya Muromets</i> was a massive four-engined biplane built by the Russian Baltic Railroad Car Factory (R-BVZ) and came complete with an enclosed cockpit and passenger cabin. The transport version, officially designated S-22 <i>Il'ya Muromets</i> B, flew a series of demonstration flights in the late spring and early summer of 1914 to drum up interest.
+
+When World War I began, a number of SS-22 B transports were delivered to the Imperial Russian Army, and a new order was placed for a version modified to serve as a bomber. The new bomber, designated S-23 V included more windows in the cockpit to improve the pilot's view. It also utilized a different fuel tank configuration. Rather than individual tanks suspended above each engine, the bomber version used two large fuel tanks tucked between the top of the fuselage and the upper wing.
+
+Since Russia had no aircraft engines, the power plants, including Argus, Sunbeam, Salmson and Renault, were all imported from European suppliers. However, production delays often forced the Russian military to scavenge engines from crashed or retired aircraft. This lack of adequate engines plagued the entire line of bombers. 
+
+After their first bombing raid on February 15, 1915 the Sikorsky <i>Il'ya Muromets</i> flew more than 400 missions against Prussia and Germany and remained in active combat service until the Russian Revolution of 1917 ended their participation in World War I.
+
+<b>Model Builder's Comments:</b> The nose & fuel tank configuration in this model resemble those used in the B-type transport aircraft. However, the fuselage configuration is distinctly that of the V-type bombers.]]>
+
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of the Eskadra Vozdushnykh Korablei (Squadron of Flying Ships), Russian Imperial Air Force, Eastern Poland, February, 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Russian Baltic Railroad Car Factory (R-BVZ)
+<b>Country of Manufacture:</b> Russia
+<b>Power plant:</b> Four Sunbeam, 8 cylinder liquid-cooled inline V piston engines of 150 hp (111 kW) 
+<b>Performance:</b>
+Maximum Speed: 75 mph (120 km/h)
+Ceiling: 9,840 feet (2,999 m)
+Endurance: 5 hours
+Empty Weight: 10,117 pounds (4,589 kg)
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 97 feet 9 inches (29.8 m)
+Length: 56 feet 1 inch (17.1 m)
+Height: 15 feet 6 inches (4.7 m)
+<b>Armament:</b> two .303 inch (7.7mm) Lewis machine guns in flexible mounts in lateral mid-fuselage positions, one .311 inch (7.9mm) machine gun in flexible mount in dorsal fuselage, 1,150 pounds of bombs
+<b>Crew:</b> 6 or 7 
+]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

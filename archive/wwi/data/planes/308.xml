@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="308" cos="Great Britain"> 
+<type><![CDATA[Interceptor]]></type>
+<plnName><![CDATA[Blackburn Triplane (Pusher, 1916)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Blackburn Triplane was designed as a Zeppelin interceptor and based largely on the earlier-model Air Department (A.D.) Sparrow, for which the Blackburn Company served as contractors. The A.D. Sparrow and the Blackburn Triplane were easily two of the strangest aircraft of the time. Both machines were configured in a pusher configuration with the propeller behind the cockpit. Even more striking, however, the lower wing was located below the nacelle. The most notable structural difference between the two aircraft was that the Sparrow was a biplane while the later Blackburn model was a Triplane. Nevertheless, the histories of these two aircraft have often been confused and blended.
+
+The Triplane configuration was intended to enhance the aircraft's maneuverability when taking evasive maneuvers around Zeppelins. A gun port in the nose of the nacelle, clearly indicated that the aircraft was meant to be armed -most likely with a Davis recoilless quick-firing gun like its predecessor. However, only one prototype Triplane, N502, was ever built and it is doubtful the gun was ever mounted. The prototype Blackburn Triplane was accepted by the British Admiralty on 20 February 1917, but was removed from service only one month later due to unsatisfactory performance.
+
+<b>Model Builder's Comments:</b> This model depicts the Triplane as it would have looked had it been armed for operational service.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft received for evaluation by the Royal Naval Air Service, Unidentified Royal Naval Air Station, England, early March 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Blackburn Aeroplane and Motor Co Ltd
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Gnôme Monosoupape, 9 cylinder air-cooled rotary piston engine of 100 hp (75 kW)
+<b>Performance:</b>
+Maximum Speed: 90 mph (145 km/h) 
+Ceiling: not documented
+Endurance: 3 hours 
+Empty Weight: 1011 pounds (458 kg)
+Loaded Weight: 1500 pounds (680 kg)
+<b>Dimensions: </b>
+Span: 24 feet 0 inches (7.32 m)
+Length: 21 feet 5 inches (6.48 m)
+Height: 8 feet 6 inches (2.57 m)
+<b>Armament:</b> One fixed, forward-firing Davis two pounder quick firing recoilless cannon mounted in the nose of the fuselage. The Davis cannon reduced the recoil by having a slug fired from a barrel pointing aft at the time the 2 pound (.91 kg) shell was fired forward.
+<b>Crew:</b>1
+]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

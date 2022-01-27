@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="212" cos="United States"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Nieuport 28 C1]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Built by the Société Anonyme des Etablissments Nieuport, The Nieuport 28 C1 was the first fighter flown by United States pilots in support of United States ground forces in World War I. Designer, Gustav Delage radically departed from the wing design of earlier Nieuport fighters when he designed the 28 C1. He abandoned his unique sesquiplane lower wing used in previous models in favor of standard biplane wings. He did, however, retain the narrow chord and single spar from his earlier wing designs. Unfortunately, a poor upper wing design caused structural failures and fabric separations at high speed -a process called "losing the laundry." Engine fires were also a regular occurrence and some pilots lost confidence in the aircraft because of these problems. 
+
+The United States purchased 298 Nieuport 28s for service in the United States Air Service. American ace Eddie Rickenbacker and James Norman Hall, author of <i>Mutiny on the Bounty</i>, flew this aircraft over the Western Front during the 28 C1's short career in the last months of the War. By the summer of 1918, the SPAD XIII C1 replaced most of these aircraft, but some Nieuport 28s continued to fly until the end of the war. 
+
+When World War I concluded, many Nieuport 28s returned to the United States. The United States Navy employed twelve of the aircraft on early battleships in experimental flights off improvised platforms. The Museum of Flight example is thought to be one of these Navy models.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of the 94th Aero Squadron, Western Front, France, May, 1918 ]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Établissements Nieuport
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> Gnôme-Rhône Monosoupape 9N 9-cylinder rotary 160 hp (119kW)
+<b>Performance:</b>
+Maximum Speed: 123 mph at 000 feet (198 km/h at 000 m) 
+Ceiling: 17,000 feet (5,182 m)
+Range: 248 miles (400 km)
+Empty Weight: 961 pounds (436 kg)
+Loaded Weight: 1539 pounds (698 kg)
+<b>Dimensions: </b>
+Span: 26 feet 9.25 inches (8.16 m)
+Length: 21 feet 0 inches (6.40 m)
+Height: 8 feet 2.5 inches (2.50 m)
+<b>Armament:</b> Two 7.7mm (.303 inches) fixed, forward-firing synchronized Vickers machine guns mounted atop the forward fuselage
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

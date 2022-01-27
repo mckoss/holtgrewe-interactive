@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="309" cos="Great Britain"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Royal Aircraft Factory S.E.5a]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Royal Aircraft Factory S.E.5 and the later variant, the S.E.5a (modeled here), was a single-seat biplane fighter, known for its speed and durability. The aircraft was of standard construction for the time -wire-braced wooden box-girder fuselage and fabric-covered wings. It was armed with a Lewis gun mounted on the top wing, and a propeller-synchronized Vickers machine gun in front of the cock-pit. The S.E.5 was originally designed to carry the Hispano-Suiza 150 hp engine, which first appeared in 1915. Further development of the engine produced a 200 hp model in 1916. The more-powerful engine was installed on a modified version of the S.E.5, which was redesignated the S.E.5a.
+
+Unfortunately, the larger engine proved problematic. Production delays and frequent failures in the larger engines resulted in supply shortages. Engine failures in front-line aircraft, also had an adverse effect on pilot morale.
+
+Nevertheless, the S.E.5a proved to be a formidable aircraft in combat. Though it was less maneuverable than its contemporaries, the machine's durability allowed its pilots to push the aircraft's capabilities without fear of structural failure. The S.E.5a notably served as the mount for several of Britain's top aces. The prototype for this model was an R.A.F. aircraft flown on the Western Front by William A. (Billie) Bishop; a Canadian who became one of Great Britain's highest scoring aviators. He was credited with 72 victories.
+
+By the middle of 1918 the S.E.5a equipped 25 squadrons on the Western Front, three in Macedonia, two in Palestine, one in Mesopotamia and four in England for homeland defense. A total of over 5200 aircraft were produced. Thirty-five S.E.5a's were also given to the American Expeditionary Force, which flew them on the Western Front during the final months of the war. Soon after the war the British retired the S.E.5a in favor of the Sopwith Snipe, but it continued to serve in the United States Army Air Force until the mid 1920s. A number of the American machines were finally sold to civilians for use in "barnstorming shows" and "flying circuses". Several of the S.E.5a's also starred in the Hollywood movie <i>Hells Angels</i>.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of No. 85 Squadron, Royal Flying Corps, Western Front, June 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Royal Aircraft Factory
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Wolseley W4a "Viper" (license-built variant of the Hispano-Suiza 8b), 8 cylinder inline liquid-cooled piston engine of 200 hp (149 kW)
+<b>Performance:</b>
+Maximum Speed: 132 mph (212 km/h)
+Ceiling: 19,500 feet (5940 m)
+Endurance: 2 hours, 30 minutes
+Empty Weight: 1400 pounds (635 kg)
+Loaded Weight: 1,950 pounds (885 kg)
+<b>Dimensions: </b>
+Span: 26 feet 7 inches (8.10 m)
+Length: 20 feet 11 inches (6.38 m)
+Height: 9 feet 6 inches (2.90 m)
+<b>Armament:</b> One fixed, forward-firing synchronized Vickers 0.303 inch (7.7 mm) machine gun mounted on fuselage nose, one fixed forward firing Lewis 0.303 inch (7.7 mm) machine gun mounted on top of the upper wing firing above the propeller arc. Four 25 pound (11.3 kg) Cooper bombs
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

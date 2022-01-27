@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="146" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Halberstadt D.II]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Designed by engineer, Karl Theis, the Halberstädt D. II was built by the German company Halberstädter Flugzeug-Werke GmbH as well as under license by Aviatik and Hannoversche Waggonfabrik AG. 
+
+The Halberstädt D.II entered service on the Western Front in September 1916 where it served successfully until the arrival of the higher performing Albatros and Fokker fighters in the spring of 1917. 
+
+Once the D.II had been retired from the Western Front, Germany retained a few to use as advanced single-seat trainers, while the rest were equipped with radiators to adapt them for a desert environment. The modified D.IIs served in Turkey with various units of the Ottoman Air Force until the end of the war. The lack of significant opposition in this area contributed to the D.II's success.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified squadron of the German Air Force.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Halberstädter Flugzeug-Werke GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Mercedes D II, 6 cylinder inline liquid cooled piston engine of 120 hp (89.5 kW) 
+<b>Performance:</b>
+Maximum Speed: 93 mph (150 km)
+Ceiling: 13,123 feet (4,000 m)
+Range: 155 miles (249 km)
+Empty Weight: 1,147 pounds (520 kg)
+Loaded Weight: 1,610 pounds (730 kg)
+<b>Dimensions: </b>
+Span: 29 feet 10 ⅜ inches (8.8 m)
+Length: 23 feet 11 ⅜ inches (7.3 m)
+Height: 8 feet 9 inches (2.7 m)
+<b>Armament:</b> One fixed, forward-firing propeller synchronized 7.9 mm (.311 inch) LMG 08/15 machine gun mounted on the starboard side of the forward fuselage
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

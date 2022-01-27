@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="119" cos="Germany"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Gotha LE 3 (<i>Taube</i>)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Germany's first mass-produced military aircraft were called <i>Tauben</i> (Doves) -so named because of the bird-like shape of their wings. Austrian designer, Igo Etrich developed the first prototype <i>Tauben</i>, before licensing the design the Rumpler aircraft. Variants of Etrich's design were soon being produced by at least fourteen German and Austrian aircraft firms, including Gothaer Waggon-Fabrik (modeled here). The Gotha <i>Tauben</i> were designated LE 3 by the manufacturer and A.I by the German military.
+
+The <i>Tauben</i> featured a single aileron and unique split rudder configuration. Most variants, including the LE 3 were two-seat monoplanes. The LE 3 flew unarmed except for sidearms carried by pilots and served primarily in a reconnaissance role. 
+
+Gotha delivered twenty LE 3s to the German Army in 1914. However, as the War began to accelerate military aircraft design and production, the <i>Tauben</i> were soon replaced by newer-model reconnaissance aircraft. A few served as trainers until 1917 when they were all retired.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified unit of the German Air Force, Western Front, August, 1914.
+
+<b>Model Builder's Comments:</b> The tail structure in this model deviates from the standard split rudder configuration found on most <i>Taube</i> aircraft.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Gothaer Waggonfabrik AG
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Mercedes D1, 6 cylinder inline liquid-cooled piston engine of 100 hp (76 kW) 
+<b>Performance:</b>
+Maximum Speed: 60 mph (97 km/h)
+Ceiling: 4,100 feet (1,250 m)
+Endurance: 4 hours
+Empty Weight: 1323 pounds (600 kg)
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 46 feet 6 inches (14.17 m)
+Length: 28 feet 3 inches (8.61 m)
+Height: 10 feet 2 inches (3.09 m)
+<b>Armament:</b> None
+<b>Crew:</b>2
+]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

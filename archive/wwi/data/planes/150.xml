@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="150" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Siemens-Schuckert D.III]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Siemens-Shuckert (SSW) D.III was a single-seat biplane fighter developed as a replacement for the earlier SSW D.I. Chief engineer, Harold Wolff designed the aircraft around the new Siemen-Halske Sh III eleven cylinder air-cooled rotary engine, the largest and most powerful rotary engine in service at the time. In early production models, the engine was completely enclosed in a circular cowling. However, persistent cooling problems lead designers to remove a large portion of the lower cowling in later units (such as the one modeled here) in an effort to improve airflow. 
+
+The first prototype D.III flew in January, 1918 with production models arriving on the Western front later that spring. The D.III exhibited an excellent climb rate and the Sh III engine maintained its power well at high altitudes. However, the D.IIIs' speed in level flight was only 112.5 mph (180 km/hr). As a result, the machines were largely assigned to interceptor duties. Further attempts to improve engine performance and speed resulted in the new D.IV variant.
+
+The Siemens-Schuckert fighters remained in production until almost a year after hostilities ceased. Examples of the aircraft survived in Germany until as late as 1926.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified fighter unit, German Air Force, Western Front, October, 1918 ]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Siemens-Schuckert Werke
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Siemens-Halske Sh IIIa, 11 cylinder air-cooled rotary piston engine of 160 hp (119 kW)
+<b>Performance:</b>
+Maximum Speed: 110 mph (177 km/h)
+Ceiling: 26,246 feet (8,000 m)
+Range: 224 miles (360 km)
+Empty Weight: 1,153 pounds (523 kg)
+Loaded Weight: 1,598 pounds (725 kg)
+<b>Dimensions: </b>
+Span: 27 feet 4 inches (8.33 m)
+Length: 18 feet 8 inches (5.69 m)
+Height: 9 feet 2 inches (2.79 m)
+<b>Armament:</b> Two fixed, forward-firing synchronized 7.9mm (.311 inch) LMG 08/15 machine guns
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

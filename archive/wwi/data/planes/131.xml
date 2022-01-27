@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="131" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Albatros D.V (L24)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Albatroswerke developed the D.V in an effort to improve upon its predecessors, the Albatros D.II and D.III. The D.V featured a semi-monocoque wooden fuselage with wings built of a wood frame and doped fabric covering. Though it looked similar to the Albatros D.II and D.III, the D.V had a strengthened wing structure and an improved Mercedes D.IIIa engine. Despite its reinforced wing, the machine still suffered from wing failure during steep dives. This resulted in several fatal accidents and needless combat losses. Investigations eventually found that the wing spar was placed too far aft, resulting in excessive vibration and eventual breakage during prolonged dives. In a continuing effort to address this problem, Albatros-Werke added a supplemental strut to later model D.Vs.
+
+The D.V entered combat service on the Western Front in May of 1917. Operations of the Albatros D.V reached a peak in May of 1918 when 1,059 machines were in active service with 37 German Jasta. At that time, the D.V and a variant, the D.Va, constituted 48% of all German fighters deployed with combat units. After May of 1918, the Albatros machines were gradually replaced by Fokker D.VII fighter aircraft. 
+
+The Albatros D.V modeled here was flown on the Western Front by Vizefeldwebel (Staff Sergeant) Barth, a member of Jasta 10, in the late autumn of 1917.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Jagdstaffel (squadron) 10, German Air Force, Western Front, November 1917. ]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Albatroswerke GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Mercedes D.IIIa, 6 cylinder inline liquid-cooled piston engine of 180 hp (134 kW)
+<b>Performance:</b>
+Maximum Speed: 116 mph at sea level (185 km/h as sea level)
+Ceiling: 18,700 feet (5700 m) 
+Endurance: 2 Hours 
+Empty Weight: 1,515 pounds (687 kg)
+Loaded Weight: 2,066 pounds (937 kg) 
+<b>Dimensions: </b>
+Span: 29 feet 8 inches (9.04 m)
+Length: 24 feet 1 inch (7.34 m)
+Height: 8 feet 10 inches (2.69 m)
+<b>Armament:</b> Two fixed, forward-firing 7.92 mm (0.312 inches) synchronized LMG 08/15 machine guns 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

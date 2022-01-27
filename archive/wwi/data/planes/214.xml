@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="214" cos="France"> 
+<type><![CDATA[Reconnaissance Floatplane]]></type>
+<plnName><![CDATA[Breguet Type H-U.2 Seaplane (Canton-Unné 9 Cylinders)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In 1912, French aircraft manufacturer, S.A. des Ateliers d'Aviation, Louis Breguet entered into an agreement with the French Navy to create a floatplane version of the Breguet U.2 biplane. Like its land-based counterpart, the new float plane had a skinny, rounded fuselage, which was covered with aluminum -an unusual design choice for the time. These features led the British Breguet Plane Company to nickname them "tin whistles". The H-U.2 and its land-based counterpart also utilized an unusual engine. The liquid-cooled radial engine was uncommon at a time when most aircraft had air-cooled rotary power-plants. A pair of radiators protruded above either side of the forward fuselage to cool the engine during flight.
+
+The aircraft's designer, Louis Breguet was one of the most prominent French aviators and aircraft designers in the decade leading up to World War I. The Paris-based company, which he founded, built a number of flying machines which saw service with both the Aviation Militaire (the French Air Force) and the French Navy during World War I. Among these flying machines were seaplanes like the one modeled here. 
+
+The Breguet H-U.2 was one of at least three Breguet aircraft to appear at the first Schneider Cup race in April of 1913. While originally listed among the entrants in the race, the H-U.2 withdrew before competition began.
+
+It is unclear how many of the aircraft were eventually delivered to the French Navy, or how long they served. The land-based U.2s proved unpopular with their crews and had been replaced by newer models by the end of 1914.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an early WW I two-seat floatplane painted in the colors of the French Naval Air Service. ]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Ateliers d'Aviation, Louis Bréguet
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Salmson, 9 cylinder radial liquid-cooled piston engine of 150 hp (112 kW) 
+<b>Performance:</b>
+Maximum Speed: 68 mph (110 km/h) 
+Ceiling: not documented
+Endurance: not documented
+Empty Weight: 1,995 pounds (905 kg)
+Loaded Weight: 2,976 pounds (1,350 kg)
+<b>Dimensions: </b>
+Span: 51 feet 8 inches (15.75 m)
+Length: 37 feet 9 inches (11.5 m)
+Height: Seaplane version not documented
+<b>Armament:</b> none
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="305" cos="Portugal"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Royal Aircraft Factory F.E.8]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[This model represents an aircraft that was the first single seat fighter designed by the Royal Aircraft Factory (R.A.F.) The open-framed rear-boom fuselage and pusher engine evolved from earlier R.A.F. designs. The F.E.8 utilized the pusher configuration because aircraft engineers had not yet developed the interrupter mechanism that would eventually allow pilots to fire through a plane's propeller arc. 
+
+Although the F.E. 8 first flew in October of 1915, the 270 production aircraft built by Darracquot Motors Engineering at Fulham and Vickers Aircraft at Weybridge did not become operational until August, 1916. By this time more advanced German tractor-type fighters with superior performance made the "pusher" configuration aircraft ineffective. Some F.E.8s remained in service for another year before their final withdrawal and a number were subsequently assigned to serve with Britain's Portuguese allies in East Africa. There they served as ground support and reconnaissance aircraft. This model represents one of these Portuguese aircraft.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified unit if the Portuguese Air Force, Portuguese East Africa, December, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Royal Aircraft Factory
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Gnôme Monosoupape, 9 cylinder air-cooled rotary engine of 100 hp (74.6 kW)
+<b>Performance:</b>
+Maximum Speed: 94 mph (151 km/h) at sea level feet 
+Ceiling: 15,210 feet (4,636 m)
+Endurance 2.5 hours
+Empty Weight: 895 pounds (406 kg)
+Loaded Weight: 1,346 pounds (611 kg)
+<b>Dimensions: </b>
+Span: 31 feet 6 inches (9.60 m)
+Length: 23 feet 8 inches (7.21 m)
+Height: 9 feet 2 inches (2.79 m)
+<b>Armament:</b> One fixed, forward-firing 0.303 inch (7.7mm) Lewis machine gun mounted forward of the cockpit in fuselage gondola
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

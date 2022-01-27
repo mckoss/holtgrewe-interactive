@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="133" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Fokker D.II (M 17ZF, M 17ZK)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Design of the Fokker D.II began in early 1916 when Fokker aeronautical engineer, Martin Kreutzer, began developing an aircraft to replace the Fokker monoplanes. His machine, a biplane designated the M.17, was built in two variants. The single-bay variant was primarily deployed by the Austro-Hungarian Air Force which re-designated the aircraft B.III. The two-bay variant (modeled here) became the Fokker D.II.
+
+The D.II was a slab-sided biplane powered by a 100 hp Oberursel rotary engine. It retained the comma-shaped rudder and wing warping used by the earlier monoplanes. The fighter was armed with one propeller-synchronized machine gun. 
+
+D.IIs began equipping operational fighter units of the Bavarian and German Air Forces on the Western Front in July of 1916. Reflecting the markings on their fuselages, numbers of the machines acquired the nickname "black and white tails". Despite this endearing nickname, the Fokker D.IIs' operational careers were short lived. By early 1917 they had been relegated to flight schools as trainers, having been replaced by far superior Fokker and Albatros fighter aircraft. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Kest (Fighter Squadron) 4 D, Bavarian Royal Air Force (a division of the German Air Force), Freiburg, Bavaria, August, 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Fokker Aeroplanbau GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Oberursel U I, 9 cylinder air cooled rotary piston engine of 100 hp (75 kW)
+<b>Performance:</b>
+Maximum Speed: 93 mph (150 km/h) 
+Ceiling: 13,123 feet (4,000 m)
+Endurance: 1 hour 20 minutes 
+Empty Weight: 1,018 pounds (462 kg)
+Loaded Weight: 1,502 pounds (681 kg)
+<b>Dimensions: </b>
+Span: 28 feet 8 inches (8.74 m)
+Length: 20 feet 11 inches (6.38 m)
+Height: 8 feet 4 inches (2.54 m)
+<b>Armament:</b> One fixed, forward-firing synchronized Maxium 7.9 mm (0.31 inch) LMG 08/15 machine gun mounted atop the starboard side of the upper deck of the forward fuselage firing through the propeller arc
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

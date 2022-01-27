@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="329" cos="Great Britain"> 
+<type><![CDATA[Bomber]]></type>
+<plnName><![CDATA[Sopwith Cuckoo (T.1)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Sopwith T.1 Cuckoo was the first aircraft designed as a shipboard torpedo bomber. The future importance of naval aviation was set early in World War I when a British Short Type 184 Bomber successfully sunk a Turkish cruiser with an air-launched torpedo. This event prompted the Admiralty to begin converting battle cruisers and other ships into aircraft carriers. It also commissioned an aircraft capable of carrying a torpedo, which could actively attack enemy shipping. The Sopwith Company responded with their T.1 Cuckoo. The new machine needed to be light in relation to its power plant in order to carry the substantial weight of a naval torpedo. With this in mind, the Cuckoo was designed to seat a single pilot, to carry no defensive armament. The aircraft's construction consisted of light wood framing with fabric covering -except for a metal cowling about the engine. The Cuckoos' wings folded back along the fuselage to accommodate the confined spaces on the aircraft carrier's flight deck. The new torpedo bomber also had an arresting tail hook to assist in landing on a carrier's flight deck. 
+
+Following satisfactory prototype trials in the spring of 1918, the Admiralty ordered 150 of the new T.1 Cuckoos. Only 90 had been delivered to squadrons of the Royal Naval Air Service by the War's end on November 11, 1918. Given the revolutionary and complicated nature of the Cuckoos' shipboard operations, their pilots were all still undergoing familiarization training trials at the time of the armistice. As such, none ever launched a torpedo in anger. Nonetheless, the Sopwith T.1 Cuckoo is historically important as the world's first shipboard torpedo bomber. This aircraft type would become a major factor in the naval engagements of World War II. World War I historical records do not explain how the Sopwith T.1 acquired the nickname "Cuckoo".]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of No. 97 Squadron, Royal Naval Air Service, British Aircraft Carrier <i>HMS Furious</i>, Royal Naval Shipyard, Portsmouth, England, November, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Sopwith Aviation Co Ltd
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Hispano-Suiza, 8 cylinder liquid-cooled inline V piston engine of 200 hp (149 kW)
+<b>Performance:</b>
+Maximum Speed: 104 mph (172 km/h) at 6000 feet (1,829 m)
+Ceiling: 15,600 feet (4,755 m)
+Endurance: 4 hours
+Empty Weight: 1,928 pounds (875 kg)
+Loaded Weight: 3,580 pounds (1,624 kg)
+<b>Dimensions: </b>
+Span: 46 feet 9 inches (14.25 m) 
+Length: 28 feet 10 inches (8.79 m)
+Height: 10 feet 8 inches (3.25 m)
+<b>Armament:</b> One 454 kg (1,000 pound) naval torpedo
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

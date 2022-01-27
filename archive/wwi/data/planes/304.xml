@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="304" cos="Great Britain"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Bristol Fighter F.2B (Brisfit)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Bristol F.2B, designed by Bristol's chief designer Frank Barnwell, first entered service with the Royal Flying Corps in April 1917. The aircraft served as a fighter and artillery spotter/reconnaissance aircraft. It performed so successfully that eventually all of the Royal Flying Corps reconnaissance squadrons were equipped with the aircraft. 
+
+After the Royal Air Force was established in April 1918, the aircraft was renamed the Bristol F.2 Mk III. Production of these fighters continued for nearly a year after the conclusion of World War I. In all, 4,747 were eventually built. Some of these reconnaissance fighters continued on active duty with the RAF until the early 1930s.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft flown by No. 139 Squadron, British Royal Flying Corps in Italy during August 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> British & Colonial Aeroplane Co
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> Rolls-Royce Falcon III, 6 cylinder inline liquid-cooled piston engine of 275 hp (205 kW)
+<b>Performance:</b>
+Maximum Speed: 123 mph (198 km/h) at 5,000 feet (198 km/h at 1525 m) 
+Ceiling: 19,500 feet (5,944 m)
+Endurance: 1 hour, 55 minutes
+Empty Weight: 1,930 pounds (875 kg)
+Loaded Weight: 2,848 pounds (1292 kg)
+<b>Dimensions: </b>
+Span: 39 feet 3 inches (11.96 m)
+Length: 25 feet 10 inches (7.87 m)
+Height: 9 feet 9 inches (2.97 m)
+<b>Armament:</b> One fixed forward firing synchronized 0.303 inch (7.7 mm) Vickers machine gun, one 0.303 inch (7.7 mm) Lewis machine gun in a flexible Scarf ring mounted in rear cockpit
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

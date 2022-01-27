@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="201" cos="France"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Morane-Saulnier Type N (Mo.S.5)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Morane-Saulnier Type N was among the first operational single seat fighters in the world. Its maiden flight was in May of 1914, three months before the outbreak of World War I. Originally designed for sale on the civilian market to wealthy sportsmen who wanted to "fly", the advent of World War I prompted the French military to order numbers of the machines for the Aviation Militaire. The Morane-Saulnier Type N had its military operational debut on the Western front when flown in the early summer of 1915 by the famous French pilot Eugene Gilbert.
+
+The Type N was a shoulder-wing monoplane, unusual at a time when most airplanes had multiple sets of wings. It employed wing warping for lateral control requiring its wings to have multiple bracing wires on both its superior and inferior surfaces. 
+
+On later production aircraft, the solitary machine gun was positioned on the upper forward fuselage and was fixed to fire through the propeller arc. To avoid damage, the back of the propeller was fitted with steel plates which deflected those bullets striking it during firing. This approach was first installed, tested and flown in combat by Roland Garros in a Morane-Saulnier Type L. 
+
+The French dubbed the Type N fighter <i>"Le Vengeur"</i> (The Avenger). The Morane-Saulnier Type N saw substantial service with the Aviation Militaire, both as an observation platform and as a fighter during 1915, but by the end of that year it began to be phased out in favor of more modern and better aircraft. However, the Type N remained in active combat for some months thereafter in the hands of France's allies. Between March and June of 1916 twenty-four Morane-Saulnier Type N aircraft were placed into service by the British Royal Flying Corps where they acquired the nickname "Morane Bullets". The Russian Military Air Fleet also deployed Type N aircraft which were sent to Russia by France following their removal from front line service by the Aviation Militaire. Britain and Russia retired all of their Type N machines by early 1917.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unknown escadrille, Aviation Militaire (French Air Force), Western Front, summer of 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Aéroplanes Morane-Saulnier
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhône 9C, 9 cylinder rotary air-cooled piston engine of 80 hp (60 kW)
+<b>Performance:</b>
+Maximum Speed: 89 mph (143 km/h)
+Ceiling: 13,123 feet (4000 m)
+Endurance: 1 Hour 30 minutes
+Empty Weight: 635 pounds (288 kg)
+Loaded Weight: 976 pounds (443 kg)
+<b>Dimensions: </b>
+Span: 26 feet 8 inches (8.13 m)
+Length: 19 feet 1 inch (5.83 m)
+Height: 7 feet 4 inches (2.25 m)
+<b>Armament:</b> One fixed, forward-firing 8mm (.315 inches) Hotchkiss machine gun mounted on forward fuselage firing through the propeller arc
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

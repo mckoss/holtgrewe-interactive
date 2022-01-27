@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="153" cos="Germany"> 
+<type><![CDATA[Infantry Support Aircraft]]></type>
+<plnName><![CDATA[Albatros J.II]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[German aircraft manufacturer, Albatros developed a ground attack aircraft in 1917 to meet the needs of the expanding German <i>Infanterieflieger</i> (close air-support units). The new machine, designated the Albatros J.I, utilized the same wing configuration as the C.XII reconnaissance aircraft, but replaced the C.XII's graceful fuselage with a partially armored body designed to repel ground fire. A later version of the aircraft, designated the J.II (modeled here) further expanded the armor plating to encompass the engine compartment.
+
+The weight of the extensive 5mm steel plate armor made the J.II ungainly to take off and fly. Nevertheless, ground-attack aircraft like the Albatros J.II made life difficult for allied ground troops from the autumn of 1917 through the end of the War. By the end of August 1918, there were a total of sixteen Albatros J.Is and nineteen J.IIs in operation. These were accompanied by nearly 600 other J-type ground attack aircraft produced by other German manufacturers including A.E.G. and Junkers.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified unit of the German Air Force, Western Front, August, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Albatroswerke GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Benz Bz IVa, 6 cylinder inline liquid-cooled piston engine of 220 hp (164 kW) 
+<b>Performance:</b>
+Maximum Speed: 84 mph (135 km/h)
+Ceiling: 4,950 feet (1,509 m)
+Endurance: 2 hours 30 minutes
+Empty Weight: not documented
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 46 feet 3 inches (14.10 m)
+Length: 27 feet 7 inches (8.41 m)
+Height: 8 feet 2 inches (6.70 m)
+<b>Armament:</b> Two fixed, forward-firing synchronized 7.9mm (0.311 inch) LMG 08/15 machine guns mounted atop forward fuselage, one Maxim 7.9mm (0.311 inch) Parabellum machine gun in flexible mount in rear cockpit, 441 pounds (200 kg) of bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="250" cos="Italy"> 
+<type><![CDATA[Bomber]]></type>
+<plnName><![CDATA[Caproni Ca.46 (Military Ca.5)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Caproni Ca.46 (modeled here) was the last heavy bomber built for the Italian Air Force during World War I by Italian aircraft company, Caproni. The aircraft was part of a series of three-engined biplane bombers commonly referred to as the Ca.5 series. The Ca.46 was the last land-based model in the series and was distinguished from its predecessors by its American, Liberty engines and frontal radiators.
+
+The Ca.46 featured a twin-boom tail structure with a central gondola-style fuselage containing a forward gun position and pilots' cockpit and internal bomb bay. The aircraft utilized a unique three-engine configuration with two tractor engines suspended between the wings and a rear positioned "pusher" engine on the back of the fuselage. The aircraft had two defensive machine guns, the traditional nose mount and a second gun position above the pusher engine aft where the gunner stood at his gun exposed to the elements and gunfire from enemy aircraft. 
+
+Although the aircraft were costly and time consuming to build, 200 Ca.5 series bombers were built late in the war. Production licenses were granted to the United States, France and Great Britain. Given their late arrival, the combat careers of the Ca.46s were brief. Though the Ca.5s were significantly more advanced than the Ca.3 series they were intended to replace, they were scrapped soon after the War in favor of their predecessors due to the difficulty of maintaining the complex machines.
+
+<b>Model Builder's Comments:</b>This model depicts an aircraft equipped with Fiat A12 bis engines. This was the standard powerplant for the Ca.44, an earlier model in the Ca.5 series. Ca.46 aircraft were usually equipped with American-made Liberty engines.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified bomber unit of Italian Air Force, Northeastern Italy, September 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Societ Ingegneri Caproni e Faccanoni
+<b>Country of Manufacture:</b> Italy
+<b>Power plant:</b> Three Fiat A12 bis, 6 cylinder inline liquid-cooled engines of 300 hp (224 kW) 
+<b>Performance:</b>
+Maximum Speed: 94 mph (151 km/h)
+Ceiling: 14,700 feet (4,080 m)
+Endurance: 4 hours
+Empty Weight: 11,684 pounds (6,000 kg)
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 76 feet 9 inches (23.39 m)
+Length: 41 feet 4 inches (12.60 m)
+Height: 14 feet 8 inches (4.47 m)
+<b>Armament:</b> one 0.303 inch (7.7mm) Lewis machine gun in a flexible mount in nose of fuselage, one similar weapon in a flexible mount atop dorsal rear fuselage, 1,984 pounds (900 kg) bombs
+<b>Crew:</b>4
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

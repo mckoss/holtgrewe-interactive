@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="241" cos="Italy"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[SAML S.2]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In the first week of 1917 the Italian Direzione Tecnica dell'Aeronautica Militaria (the Technical Directorate of Military Aviation) sent a specification to the Italian aircraft industry for a new high-performance reconnaissance aircraft which would be armed and capable of carrying a bomb load. The Italian firm Società Aeronautica Meccanica Lombarda (S.A.M.L.) responded with a new design drafted by two of its engineers, Umberto Savola and Rodolfo Verduzio. This duo and their team had previously designed the very successful Ansaldo S.V.A. reconnaissance aircraft which was deployed in large numbers with the Italian Air Force. 
+
+The initial version of the new aircraft, designated the SAML S.1, was based on Italian-built versions of the German Aviatik B.I. The aircraft was built around a six-cylinder liquid-cooled inline engine built by the Italian automotive manufacturing firm, Fiat. The SAML retained the Aviatik's "heart-shaped" horizontal stabilizer and mounted the engine "German-style" with the cylinders protruding above the engine housing. A short-spanned variant of the aircraft, designated the SAML S.2 (modeled here) followed soon after and, after successful flight trials, began equipping units of the Italian Air Force in the late summer of 1917. Although they lacked blazing speed, the SAML aircrafts' performance was otherwise satisfactory and the machines came to be highly regarded by their crews as robust, reliable and easy to fly. 
+
+Over six-hundred SAML aircraft were produced and served with sixteen different reconnaissance units of the Italian Air Force during the War. The aircraft operated over the Italian, Austro-Hungarian, Albanian and Macedonian Fronts and remained in active frontline service until the end of World War I. 
+
+The fuselage sides of the SAML S.2, modeled here, display not only the traditional Italian recognition roundels but also its squadriglia (squadron) number (105) and a red rooster, the pilot's personal marking.
+
+<b>Model Builder's Comments:</b> The aircraft depicted here is painted in the markings of 105a Squadriglia. This unit is absent from some lists of S.A.M.L.-equipped squadrons, so it is unclear if the unit ever flew this aircraft type.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of 105a Squadriglia (Squadron), Macedonian Front, November, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Società Aeronautica Meccanica Lombarda (S.A.M.L.)
+<b>Country of Manufacture:</b> Italy
+<b>Power plant:</b> One Fiat A12 bis, 6 cylinder inline liquid-cooled piston engine of 300 hp (223 kW) 
+<b>Performance:</b>
+Maximum Speed: 101 mph (163 km/h) 
+Ceiling: 16,405 feet (5,000 m)
+Endurance: 3 hours, 30 minutes 
+Empty Weight: 2,249 pounds (1,020 kg)
+Loaded Weight: 3,075 pounds (1,395 kg)
+<b>Dimensions: </b>
+Span: 39 feet 9 inches (12.12 m)
+Length: 27 feet 10 inches (8.79 m)
+Height: 9 feet 10 inches (3.00 m)
+<b>Armament:</b> One fixed, forward-firing 0.256 inch (6.5 mm) belt-fed Fiat-Revelli machine gun mounted atop the upper wing, one similar drum fed weapon in flexible mount in rear cockpit, 88 pounds (40 kg) of bombs or one reconnaissance camera.
+<b>Crew:</b>2
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

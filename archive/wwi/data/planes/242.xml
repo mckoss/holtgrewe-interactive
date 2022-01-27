@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="242" cos="Italy"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[SIA (Italy) R.2]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[Italian aircraft manufacturer, Società Italiana Aviazione (S.I.A.) was one of several Italian aircraft manufacturers, which were subsidiaries of the Italian automobile manufacturer, Fiat during World War I. In 1918, S.I.A. became Fiat-Aviazione and produced the R.2 as its first aircraft under the new brand. Intended as an armed reconnaissance aircraft, the R.2 was essentially a redesign of the earlier S.I.A. 7.B 2. Fiat engineer, Celestino Rosatelli, developed the new aircraft in an effort to correct the structural problems suffered by the earlier 7.B 2.
+
+Like its predecessor, the R.2 was based around the Fiat A12 six-cylinder inline liquid-cooled engine. The aircraft's framing was a mixture of wood and steel tubing. Sheet metal surrounded the forward fuselage and totally enclosed the engine. While the earlier 7.B 2 had plywood covering over its entire fuselage, the new B.2 replaced the heavier wood with fabric over the rear part of the fuselage. The center of the R.2's upper wing was strengthened to improve its structural integrity, but retained the general shape and unusual top-wing gap of its predecessor. 
+
+After the new machine's flight trials, an order for 500 aircraft was placed with Fiat. Large-scale production of the R.2 did not begin until autumn of 1918. Nevertheless, 129 of the aircraft were completed by the time of the Armistice with a number having flown in the battle of Vittorio Veneto, less than a month before.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an armed reconnaissance aircraft of the Italian Air Force.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Società Italiana Aviazione (S.I.A.)
+<b>Country of Manufacture:</b> Italy
+<b>Power plant:</b> One Fiat A12 bis, 6 cylinder inline liquid-cooled piston engine of 300 hp (224 kW) 
+<b>Performance:</b>
+Maximum Speed: 108 mph (174 km/h)
+Ceiling: 15,750 feet (4,800 m)
+Range: 340 miles (550 km) 
+Empty Weight: 2,690 pounds (1,220 kg)
+Loaded Weight: 1,792 pounds (1720 kg)
+<b>Dimensions: </b>
+Span: 40 feet 4 inches (12.30 m)
+Length: 28 feet 10 inches (8.80 m)
+Height: 10 feet 10 inches (3.30 m)
+<b>Armament:</b> One fixed, forward-firing 0.303 inch (7.7 mm) Vickers synchronized machine gun mounted on port side of forward fuselage, one 0.303 inch (7.7 mm) Lewis machine gun on flexible mount in rear cockpit 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

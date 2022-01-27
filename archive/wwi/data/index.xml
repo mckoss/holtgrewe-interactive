@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<holtgreweWWI>
+  
+   
+      <plane id="100" cos="Austria-Hungary"><name><![CDATA[Fokker B.III Light Observation Biplane (Austria-Hungary)]]></name></plane>
+      <plane id="101" cos="Austria-Hungary"><name><![CDATA[Aviatik (Berg) D.I]]></name></plane>
+      <plane id="102" cos="Austria-Hungary"><name><![CDATA[Phönix C.I]]></name></plane>
+      <plane id="103" cos="Austria-Hungary"><name><![CDATA[Phönix D.I (Type 8) (Imperial Navy)]]></name></plane>
+      <plane id="104" cos="Austria-Hungary"><name><![CDATA[Phönix D.I (Type 8) (Imperial Aviation Troops)]]></name></plane>
+      <plane id="105" cos="Austria-Hungary"><name><![CDATA[Phönix D.IIa]]></name></plane>
+      <plane id="106" cos="Turkey"><name><![CDATA[Albatros D.II (L17)]]></name></plane>
+      <plane id="107" cos="Austria-Hungary"><name><![CDATA[Brandenburg D.I (KD)]]></name></plane>
+      <plane id="108" cos="Austria-Hungary"><name><![CDATA[Brandenburg C.I]]></name></plane>
+      <plane id="109" cos="Austria-Hungary"><name><![CDATA[Lohner C.I]]></name></plane>
+      <plane id="110" cos="Austria-Hungary"><name><![CDATA[Lloyd C.V (Series 46)]]></name></plane>
+      <plane id="111" cos="Turkey"><name><![CDATA[Albatros C.I (L6)]]></name></plane>
+      <plane id="112" cos="Turkey"><name><![CDATA[Rumpler Typ 6BI Single-Seat Combat Floatplane]]></name></plane>
+      <plane id="113" cos="Germany"><name><![CDATA[Rumpler Taube (Dove)]]></name></plane>
+      <plane id="114" cos="Germany"><name><![CDATA[Rumpler C.I (Typ 5A2)]]></name></plane>
+      <plane id="115" cos="Germany"><name><![CDATA[Rumpler C.IV (Typ 6A5 &amp; 6A7)]]></name></plane>
+      <plane id="116" cos="Germany"><name><![CDATA[Rumpler C.X (Typ 8C14)]]></name></plane>
+      <plane id="117" cos="Germany"><name><![CDATA[AGO Pusher Seaplane (1914)]]></name></plane>
+      <plane id="118" cos="Germany"><name><![CDATA[AGO C.II]]></name></plane>
+      <plane id="119" cos="Germany"><name><![CDATA[Gotha LE 3]]></name></plane>
+      <plane id="120" cos="Germany"><name><![CDATA[Harlan Taube]]></name></plane>
+      <plane id="121" cos="Germany"><name><![CDATA[Harlan Pfeiltaube]]></name></plane>
+      <plane id="122" cos="Germany"><name><![CDATA[LFG Roland Pfeil (Arrow) Biplane]]></name></plane>
+      <plane id="123" cos="Germany"><name><![CDATA[Otto C.I]]></name></plane>
+      <plane id="124" cos="Germany"><name><![CDATA[Otto B]]></name></plane>
+      <plane id="125" cos="Germany"><name><![CDATA[Gotha (Ursinus) G.I]]></name></plane>
+      <plane id="126" cos="Germany"><name><![CDATA[Gotha G.V]]></name></plane>
+      <plane id="127" cos="Germany"><name><![CDATA[Siemens-Schuckert Steffen R.I]]></name></plane>
+      <plane id="128" cos="Germany"><name><![CDATA[Friedrichshafen G.III]]></name></plane>
+      <plane id="129" cos="Germany"><name><![CDATA[Albatros D.I (L15)]]></name></plane>
+      <plane id="130" cos="Germany"><name><![CDATA[Albatros D.III (L20)]]></name></plane>
+      <plane id="131" cos="Germany"><name><![CDATA[Albatros D.V (L24)]]></name></plane>
+      <plane id="132" cos="Germany"><name><![CDATA[Fokker E.III (M 14)]]></name></plane>
+      <plane id="133" cos="Germany"><name><![CDATA[Fokker D.II (M 17ZF, M 17ZK)]]></name></plane>
+      <plane id="134" cos="Germany"><name><![CDATA[Fokker Dr.I Triplane (F.I)]]></name></plane>
+      <plane id="135" cos="Germany"><name><![CDATA[Fokker D.VII]]></name></plane>
+      <plane id="136" cos="Germany"><name><![CDATA[Fokker D.VIII (E.V)]]></name></plane>
+      <plane id="137" cos="Germany"><name><![CDATA[Albatros C.III (L10)]]></name></plane>
+      <plane id="138" cos="Germany"><name><![CDATA[Albatros W 4]]></name></plane>
+      <plane id="139" cos="Germany"><name><![CDATA[Pfalz E.I]]></name></plane>
+      <plane id="140" cos="Germany"><name><![CDATA[Pfalz Dr.I]]></name></plane>
+      <plane id="141" cos="Germany"><name><![CDATA[Pfalz D.IIIa]]></name></plane>
+      <plane id="142" cos="Germany"><name><![CDATA[Pfalz D.XII]]></name></plane>
+      <plane id="143" cos="Germany"><name><![CDATA[A.E.G. D.I]]></name></plane>
+      <plane id="144" cos="Germany"><name><![CDATA[Junkers J 9 (D.1)]]></name></plane>
+      <plane id="145" cos="Germany"><name><![CDATA[Albatros C.X (L25)]]></name></plane>
+      <plane id="146" cos="Germany"><name><![CDATA[Halberstadt D.II]]></name></plane>
+      <plane id="147" cos="Germany"><name><![CDATA[Halberstadt CL.II]]></name></plane>
+      <plane id="148" cos="Germany"><name><![CDATA[DFW C.V]]></name></plane>
+      <plane id="149" cos="Germany"><name><![CDATA[Hannover CL.IIIa]]></name></plane>
+      <plane id="150" cos="Germany"><name><![CDATA[Siemens-Schuckert D.III]]></name></plane>
+      <plane id="151" cos="Germany"><name><![CDATA[LVG C.II]]></name></plane>
+      <plane id="152" cos="Germany"><name><![CDATA[LFG Roland C.II Walfisch (Whale)]]></name></plane>
+      <plane id="153" cos="Germany"><name><![CDATA[Albatros J.II]]></name></plane>
+      <plane id="154" cos="Germany"><name><![CDATA[Brandenburg KDW]]></name></plane>
+      <plane id="155" cos="Germany"><name><![CDATA[Brandenburg W 29]]></name></plane>
+      <plane id="156" cos="Germany"><name><![CDATA[Brandenburg W 12]]></name></plane>
+      <plane id="157" cos="Germany"><name><![CDATA[A.E.G. G.IV]]></name></plane>
+      <plane id="158" cos="Germany"><name><![CDATA[A.E.G. C.IV N]]></name></plane>
+      <plane id="159" cos="Germany"><name><![CDATA[Zeppelin-Staaken R.VI]]></name></plane>
+      <plane id="160" cos="Germany"><name><![CDATA[Zeppelin L 30]]></name></plane>
+      <plane id="200" cos="France"><name><![CDATA[Morane-Saulnier Type L (Mo.S.3)]]></name></plane>
+      <plane id="201" cos="France"><name><![CDATA[Morane-Saulnier Type N (Mo.S.5)]]></name></plane>
+      <plane id="202" cos="France"><name><![CDATA[Morane-Saulnier Type AC (Mo.S.23)]]></name></plane>
+      <plane id="203" cos="France"><name><![CDATA[Morane-Saulnier Type AI]]></name></plane>
+      <plane id="204" cos="France"><name><![CDATA[Nieuport 23]]></name></plane>
+      <plane id="205" cos="France"><name><![CDATA[SPAD VII (S.7)]]></name></plane>
+      <plane id="206" cos="France"><name><![CDATA[SPAD XIII (S.13)]]></name></plane>
+      <plane id="207" cos="France"><name><![CDATA[Bleriot XI-2]]></name></plane>
+      <plane id="208" cos="France"><name><![CDATA[Deperdussin Type TT (1914 Monoplane) Epervier (Sparrowhawk)]]></name></plane>
+      <plane id="209" cos="France"><name><![CDATA[Nieuport VI]]></name></plane>
+      <plane id="210" cos="France"><name><![CDATA[Sopwith 11/2 Strutter Single-Seat Bomber (1.B1)]]></name></plane>
+      <plane id="211" cos="United States"><name><![CDATA[LePère 11 (C-11, C II)]]></name></plane>
+      <plane id="212" cos="United States"><name><![CDATA[Nieuport 28 C1]]></name></plane>
+      <plane id="213" cos="France"><name><![CDATA[Breguet Type A-G.4 (Gnôme 140 or 160 hp)]]></name></plane>
+      <plane id="214" cos="France"><name><![CDATA[Breguet Type H-U.2 Seaplane (Canton-Unné 9 Cylinders)]]></name></plane>
+      <plane id="215" cos="France"><name><![CDATA[Breguet BR.5]]></name></plane>
+      <plane id="216" cos="France"><name><![CDATA[Breguet Bre.14 B2]]></name></plane>
+      <plane id="217" cos="France"><name><![CDATA[Dunne D.8 (1912)]]></name></plane>
+      <plane id="218" cos="France"><name><![CDATA[Farman (Maurice) M.F.7]]></name></plane>
+      <plane id="219" cos="France"><name><![CDATA[Farman (Brothers) F.40 Horace (1915)]]></name></plane>
+      <plane id="220" cos="France"><name><![CDATA[Dorand Type A.R.2 A2]]></name></plane>
+      <plane id="221" cos="France"><name><![CDATA[Salmson 2 A2]]></name></plane>
+      <plane id="222" cos="France"><name><![CDATA[Voisin 3]]></name></plane>
+      <plane id="223" cos="France"><name><![CDATA[Voisin 10 BN.2 (Type LAR)]]></name></plane>
+      <plane id="224" cos="France"><name><![CDATA[Caudron Type G.4]]></name></plane>
+      <plane id="225" cos="France"><name><![CDATA[Caudron Type R.11 (R XI)]]></name></plane>
+      <plane id="226" cos="Belgium"><name><![CDATA[Nieuport 16]]></name></plane>
+      <plane id="227" cos="Italy"><name><![CDATA[Nieuport 17]]></name></plane>
+      <plane id="228" cos="Italy"><name><![CDATA[Hanriot HD 1]]></name></plane>
+      <plane id="229" cos="Russia"><name><![CDATA[Nieuport 21]]></name></plane>
+      <plane id="230" cos="Russia"><name><![CDATA[SPAD A.2 (SA.2)]]></name></plane>
+      <plane id="231" cos="Russia"><name><![CDATA[Lebed VII]]></name></plane>
+      <plane id="232" cos="United States"><name><![CDATA[Hanriot HD 2]]></name></plane>
+      <plane id="233" cos="United States"><name><![CDATA[Standard E-1]]></name></plane>
+      <plane id="234" cos="United States"><name><![CDATA[Thomas-Morse S-4C]]></name></plane>
+      <plane id="235" cos="Russia"><name><![CDATA[FBA Model C]]></name></plane>
+      <plane id="236" cos="Russia (Post-Revolution)"><name><![CDATA[Anatra Model DS Anasal (Anatra-Salmson)]]></name></plane>
+      <plane id="237" cos="Russia"><name><![CDATA[Lebed XII]]></name></plane>
+      <plane id="238" cos="United States"><name><![CDATA[Curtiss JN-4 Jenny]]></name></plane>
+      <plane id="239" cos="Italy"><name><![CDATA[Ansaldo S.V.A. 5 (SV.5)]]></name></plane>
+      <plane id="240" cos="Italy"><name><![CDATA[Pomilio E (PE)]]></name></plane>
+      <plane id="241" cos="Italy"><name><![CDATA[SAML S.2]]></name></plane>
+      <plane id="242" cos="Italy"><name><![CDATA[SIA (Italy) R.2]]></name></plane>
+      <plane id="243" cos="United States"><name><![CDATA[Curtiss N-9]]></name></plane>
+      <plane id="244" cos="France"><name><![CDATA[Borel Aeroyacht Type Denhaut I]]></name></plane>
+      <plane id="245" cos="Italy"><name><![CDATA[Macchi L.1]]></name></plane>
+      <plane id="246" cos="Italy"><name><![CDATA[Macchi M.5 Mod]]></name></plane>
+      <plane id="247" cos="Italy"><name><![CDATA[Macchi M.9]]></name></plane>
+      <plane id="248" cos="Russia"><name><![CDATA[Sikorsky S-23 Il'ya Muromets Veh]]></name></plane>
+      <plane id="249" cos="Italy"><name><![CDATA[Caproni Ca.42 (Military Ca.4)]]></name></plane>
+      <plane id="250" cos="Italy"><name><![CDATA[Caproni Ca.46 (Military Ca.5)]]></name></plane>
+      <plane id="300" cos="Great Britain"><name><![CDATA[Nieuport X Sesquiplane]]></name></plane>
+      <plane id="301" cos="Great Britain"><name><![CDATA[Nieuport 11 (XI) Bébé Sesquiplane]]></name></plane>
+      <plane id="302" cos="Great Britain"><name><![CDATA[Bristol Scout C]]></name></plane>
+      <plane id="303" cos="Great Britain"><name><![CDATA[Bristol M.1C Monoplane Scout]]></name></plane>
+      <plane id="304" cos="Great Britain"><name><![CDATA[Bristol Fighter F.2B (Brisfit)]]></name></plane>
+      <plane id="305" cos="Portugal"><name><![CDATA[Royal Aircraft Factory F.E.8]]></name></plane>
+      <plane id="306" cos="Great Britain"><name><![CDATA[Grahame-White Type XV Boxkite]]></name></plane>
+      <plane id="307" cos="Great Britain"><name><![CDATA[Vickers F.B.5 Gunbus]]></name></plane>
+      <plane id="308" cos="Great Britain"><name><![CDATA[Blackburn Triplane (Pusher, 1916)]]></name></plane>
+      <plane id="309" cos="Great Britain"><name><![CDATA[Royal Aircraft Factory S.E.5a]]></name></plane>
+      <plane id="310" cos="Great Britain"><name><![CDATA[Royal Aircraft Factory B.E.2a]]></name></plane>
+      <plane id="311" cos="Great Britain"><name><![CDATA[Royal Aircraft Factory R.E.8]]></name></plane>
+      <plane id="312" cos="Great Britain"><name><![CDATA[Royal Aircraft Factory B.E.2c]]></name></plane>
+      <plane id="313" cos="Great Britain"><name><![CDATA[Royal Aircraft Factory B.E.12b]]></name></plane>
+      <plane id="314" cos="Great Britain"><name><![CDATA[Radley-England Waterplane]]></name></plane>
+      <plane id="315" cos="Great Britain"><name><![CDATA[Royal Aircraft Factory F.E.2b]]></name></plane>
+      <plane id="316" cos="Great Britain"><name><![CDATA[Martinsyde F.4 Buzzard]]></name></plane>
+      <plane id="317" cos="Great Britain"><name><![CDATA[Short Bomber]]></name></plane>
+      <plane id="318" cos="Great Britain"><name><![CDATA[Vickers Vimy F.B.27A]]></name></plane>
+      <plane id="319" cos="Great Britain"><name><![CDATA[Handley Page O/400 (H.P.12)]]></name></plane>
+      <plane id="320" cos="Great Britain"><name><![CDATA[Blackburn Kangaroo (R.T.I, Reconnaissance Torpedo I)]]></name></plane>
+      <plane id="321" cos="Great Britain"><name><![CDATA[Sopwith Tabloid (S.S.)]]></name></plane>
+      <plane id="322" cos="Great Britain"><name><![CDATA[Sopwith Baby]]></name></plane>
+      <plane id="323" cos="Great Britain"><name><![CDATA[Sopwith Triplane]]></name></plane>
+      <plane id="326" cos="Great Britain"><name><![CDATA[Sopwith Camel 2.F.1 Ship Camel]]></name></plane>
+      <plane id="324" cos="Great Britain"><name><![CDATA[Sopwith Pup]]></name></plane>
+      <plane id="325" cos="Great Britain"><name><![CDATA[Sopwith Camel F.1]]></name></plane>
+      <plane id="327" cos="Great Britain"><name><![CDATA[Sopwith 11/2 Strutter Two-Seat Fighter]]></name></plane>
+      <plane id="328" cos="Great Britain"><name><![CDATA[Sopwith 11/2 Strutter Single-Seat Bomber]]></name></plane>
+      <plane id="329" cos="Great Britain"><name><![CDATA[Sopwith Cuckoo (T.1)]]></name></plane>
+      <plane id="330" cos="Great Britain"><name><![CDATA[Sopwith Snipe (7.F.1)]]></name></plane>
+      <plane id="331" cos="Great Britain"><name><![CDATA[Sopwith Salamander (2.T.F.1, T.F.2)]]></name></plane>
+      <plane id="332" cos="Great Britain"><name><![CDATA[de Havilland (Airco) D.H.2]]></name></plane>
+      <plane id="333" cos="Great Britain"><name><![CDATA[de Havilland (Airco) D.H.4]]></name></plane>
+      <plane id="334" cos="Great Britain"><name><![CDATA[de Havilland (Airco) D.H.6]]></name></plane>
+      <plane id="335" cos="Great Britain"><name><![CDATA[de Havilland (Airco) D.H.9]]></name></plane>
+      <plane id="336" cos="Great Britain"><name><![CDATA[Avro 503 Seaplane (Type H)]]></name></plane>
+      <plane id="337" cos="Great Britain"><name><![CDATA[Avro 504K]]></name></plane>
+      <plane id="338" cos="Great Britain"><name><![CDATA[Fairey Campania F.22]]></name></plane>
+      <plane id="339" cos="United States"><name><![CDATA[Curtiss Model H-16 ]]></name></plane>
+      <plane id="340" cos="Great Britain"><name><![CDATA[Felixstowe F.2A]]></name></plane>
+   
+  
+</holtgreweWWI>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="313" cos="Great Britain"> 
+<type><![CDATA[Interceptor]]></type>
+<plnName><![CDATA[Royal Aircraft Factory B.E.12b]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The R.A.F. B.E.12b represents the final aircraft designed by the Royal Aircraft Factory (R.A.F.) during World War I. The aircraft's immediate predecessor, the B.E.12, was designed as a single seat fighter. The B.E.12 utilized essentially the same airframe as the earlier B.E.2c, but modified to accommodate a larger engine and better armament. Unfortunately, without further modifications to the airframe, the first B.E.12s proved sluggish in the air, making them ill-suited for fighter missions. The R.A.F attempted, but failed to significantly improve on the 12's performance with the updated 12a and, by early 1918, the poorly competitive B.E.12s were withdrawn from the Western Front and returned to England for home defense. 
+
+In 1917, the Royal Aircraft Factory made one last effort to upgrade its B.E.12-with the B.E.12b. The most powerful aircraft in the series, the "b" model featured the new 200 hp Hispano-Suiza engine, which was the same used in the highly successful S.E.5a fighters. Unlike its predecessors, the B.E.12b was designed primarily for home defense. It was equipped with twin Lewis guns mounted on the upper wing, including one with a Hutton illuminated sight. 
+
+B.E.12bs finally entered service in February of 1918 as interceptors defending London against German Zeppelins and bombers. By this phase of the war, German Zeppelin air raids were rare and so the B.E.12bs had few targets. Seeking to utilize the machines, the British Air Ministry outfitted most of the B.E.12bs with bombs and employed them in anti-submarine patrols along the coast. This model replicates one of these coastal defense B.E. 12bs. By War's end, well over a hundred 12bs were built, but only 39 ever reached their units, 36 of which were employed in home defense.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft assigned to No.141 Squadron, British Royal Flying Corps, Biggin Hill, England. ]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Royal Aircraft Factory
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One Hispano-Suiza, 8 cylinder liquid-cooled V inline piston engine of 200 hp (149 kW)
+<b>Performance:</b>
+<i>Performance data for the B.E. 12b are not documented. The data given below are for its immediate predecessor the B.E.12a</i>
+Maximum Speed: 105 mph 
+Ceiling: 12,500 feet 
+Endurance: 3 hours 
+Empty Weight: 1,610 pounds (730 kg) 
+Loaded Weight: 2,327 pounds (1056 kg) 
+<b>Dimensions: </b>
+Span: 40 feet 0 inches (12.19 m)
+Length: 27 feet 3 inches (8.31 m) 
+Height: 12 feet 0 inches (3.66 m) 
+<b>Armament:</b> Two forward-firing 0.303 inch (7.7 mm) Lewis machine guns mounted atop upper wing firing over the propeller arc, two 100 lb (45 kg) bombs 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

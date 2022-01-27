@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="219" cos="France"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Farman (Brothers) F.40 Horace (1915)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Farman F.40 merged many of the signature design features of the two Farman Brothers, Maurice and Henri. The cockpit placement and sesquiplane wing design were reminiscent of Maurice's earlier M.F.7 and M.F.11 aircraft, while the tail structure resembled Henri's earlier designs. This amalgamation of design features earned the F.40 the nickname, "Horace." 
+
+The F.40 was designed as a replacement for the earlier M.F.11. Like its predecessor, it was a single-engine two-seater with a "pusher" propeller located behind the cockpit. However, unlike the biplane M.F.11, the F.40 was a sesquiplane, with a lower wing that was significantly shorter than the upper. The forward fuselage was a metal gondola with a long, thin nacelle holding the pilot in the rear seat and the observer/ gunner in the forward position. The inline engine, duel radiators and fuel tank occupied the aft portion of the gondola just ahead of the pusher propeller. The aft fuselage back to the tail surfaces was a maze of open struts and wire bracing. The wings and tail planes were of wood framing with fabric covering.
+
+The F.40 entered service as an infantry and artillery spotter with the Aviation Militaire in late 1915. As manufacturing commences, as many as ten aircraft a day were produced in several variants. Variant aircraft differed primarily in engine type, though a float plane version was constructed as well as a variant equipped with searchlights, and one designed to carry Le Prieur rockets for attacking balloons. A number of F.40s were also configured as bombers, but were deemed unsuccessful in that role. The machines suffered from poor engine performance and were defenseless if attacked from behind. By 1916, the bomber variants were restricted to night-time operations, and were soon phased out entirely.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified escadrille of the French Aviation Militaire (French Air Force), Western Front, 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Henri et Maurice Farman
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Renault, 8 cylinder inline V liquid-cooled piston engine of 160 hp (119 kW) 
+<b>Performance:</b>
+Maximum Speed: 84 mph (135 km/h) 
+Ceiling: 13,125 feet (4000 m)
+Endurance: 2 hours, 20 minutes 
+Empty Weight: not documented 
+Loaded Weight: 2,275 pounds (1,123 kg)
+<b>Dimensions: </b>
+Span: 57 feet 10 inches (17.63 m)
+Length: 30 feet 10 inches (9.40 m)
+Height: 12 feet 9 inches (3.89 m)
+<b>Armament:</b> One 7.7mm (0.303 inch) Lewis machine gun in flexible mount in forward fuselage, 50 kg (110 pounds) of bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

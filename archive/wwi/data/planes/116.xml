@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="116" cos="Austria-Hungary"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Rumpler C.X (Type 8C14)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Rumpler C.X was to be the last in a line of "C" type reconnaissance aircraft built for the German Air Force by the firm E. Rumpler Flugzeug-Werk. Gustav Budig, Rumpler's chief design engineer for the entire "C" series, designed the C.X with a unique x-shaped wing strut, which reduced the need for additional bracing wires. The C.X incorporated a pine wood frame covered with a fabric skin, except for the metal sheeting around the forward fuselage. The aircraft was powered by a 240 hp Maybach Mb IV engine, and was designed to carry a forward-firing Spandau machinegun and a movable Parebellum gun. Overall, the two seat biplane exhibited clean lines and was a light, aerodynamically efficient machine.
+
+The C.X made its maiden flight in 1918. Unfortunately, after the prototype was seriously damaged in a collision on the ground, further design and production was cancelled. The end of the War later that year, eliminated the need for further aircraft development, marking the end of Rumpler's "C" type lineage.]]>
+</history>
+<deployment>
+<![CDATA[This model represents the prototype Rumpler C.X, Germany, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Rumpler-Werke A.G.
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Maybach Mb.IVa, 6 cylinder inline liquid-cooled piston engine of 260 hp (194 kW)
+<b>Performance:</b>
+Maximum Speed: 122 mph (195 km/h) 
+Ceiling: 25,500 feet (7.775 m) 
+Endurance: 3 hours 30 minutes 
+Empty Weight: 2,090 pounds (950 kg)
+Loaded Weight: 3,047 pounds (1,305 kg)
+<b>Dimensions: </b>
+Span: 34 feet 6 inches (10.52 m)
+Length: 22 feet 6 inches (6.86 m) 
+Height: 10 feet 7 inches (3.12 m)
+<b>Armament:</b> One fixed, forward-firing synchronized 7.9mm (0.31 inch) Spandau machine gun mounted on starboard side of forward fuselage, one 7.9mm (o.31 inch) Parabellum machine gun in flexible mount in rear cockpit 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

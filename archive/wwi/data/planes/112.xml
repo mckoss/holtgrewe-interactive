@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="112" cos="Turkey"> 
+<type><![CDATA[Floatplane Fighter]]></type>
+<plnName><![CDATA[Rumpler Typ 6BI Single-Seat Combat Floatplane]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In June of 1916, the German Naval Air Service placed a specification with the German aircraft industry for a seaplane fighter capable of engaging British fighters and flying boats. The German aircraft manufacturing firm Rumpler-Werke A.G. responded with a single-seat seaplane designated the 6BI (modeled here). 
+
+The 6BI utilized the same airframe as the land-based Rumpler C.I modified with floats. Its construction was typical for the time -wood framing with a doped fabric covering except for metal sheet surrounding the forward fuselage. The 6BI was powered by a 160 hp Mercedes DIII engine equipped with a distinctive "rhino horn" exhaust stack. The aircraft was armed, though sources are unclear as to whether the standard armament was one or two guns.
+
+The first prototype 6BI flew in the late summer of 1916 and was deemed adequate for production. By the end of the year, production aircraft began equipping units of the German Naval Air Service at seaplane bases along the Baltic and North Sea coasts. Further modification of the Rumpler seaplane resulted in the 6BII, which looked similar to the 6BI save for a slightly longer wing span and a different horizontal tail. 
+Fifty of the 6BII variants were delivered between May 1917 and January 1918 when Rumpler discontinued all 6B manufacture. 
+
+By 1918 Germany had handed off most of its Rumpler 6B seaplane fighters to its ally Turkey where they served in the Black Sea Theater. Less intense allied air patrols in the region allowed the 6Bs to continue in operation when they were rendered obsolete by improved aircraft flying over the North Sea.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified unit of the Turkish Naval Air Service, Black Sea Theater, February, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Rumpler-Werke A.G.
+<b>Country of Manufacture:</b> Germany<br /><b>Power plant:</b> One Mercedes D III, 6 cylinder inline liquid cooled piston engine of 160 hp (119 kW)<br /><b>Performance:</b>
+Maximum Speed: 95 mph (153 km/h) 
+Ceiling: 16,405 feet (5,000 m)
+Endurance: 4 hours 
+Empty Weight: 1742 pounds (790 kg)
+Loaded Weight: 2,508 pounds (1138 kg)
+<b>Dimensions: </b>
+Span: 39 feet 10.5 inches (12.15 m)
+Length: 29 feet 8 inches (9.04 m)
+Height: 11 feet 6 inches (3.51 m)
+<b>Armament:</b> One fixed, forward-firing synchronized 7.9 mm (.31 inch) LMG 08/15 machine gun mounted on the starboard side of the forward fuselage 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

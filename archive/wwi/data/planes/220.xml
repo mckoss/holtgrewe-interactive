@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="220" cos="France"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Dorand Type A.R.2 A2]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In the early spring of 1916, Colonel Dorand of the Section Technique de l'Aéronautique (STAé) issued a specification to the French aviation industry for a new armed reconnaissance aircraft to replace the obsolete Farman "pusher" machines. The Farmans, which had been the main reconnaissance platforms for the French since the outbreak of World War I, were unable to defend themselves from the German and Austro-Hungarian fighters that had begun patrolling the skies over the Front. 
+
+After being turned down by the Société Henri et Maurice Farman, which was first offered the contract for the new aircraft, STAé turned to aircraft engineer, G. Lépere. The aircraft Lépere created was a tractor biplane, which received the designation A.R.1.
+
+The A.R.1 utilized conventional construction for the time -a biplane of mixed wood and steel framing, doped fabric covering and metal about the engine and forward fuselage. The aircraft's wings, however, were laid out in a unique negative-stagger configuration. The upper wing was placed slightly aft of the lower wing. Furthermore, the lower wing was not fixed to the fuselage but was, rather, suspended below on four heavy, wooden intra-wing struts. A later variant, re-designated the A.R.2 (modeled here) featured a more powerful engine and a slightly smaller wing surface.
+
+Flight trials of the new Dorand A.R.s were completed in September of 1916 and the first production models arrived at the Western Front the following February. The new aircraft performed marginally better than the old Farmans, though not as much as initially hoped. As such, French air crews, while grateful to be rid of their old Farmans, never gave the newer Dorands anything more than grudging approval. 
+
+Both the A.R.1 and A.R.2 flew side by side and were widely used throughout 1917. At one point they equipped 18 observation units flying over the Western and Italian Fronts. However, by 1918, the A.R.s began to be replaced by more advanced SPADs and Salmsons. After the War the A.R.1 and 2 were deemed redundant. Aside from a few which were sold to other countries and several which were sold on the civilian market, they were scrapped. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Escadrille AR 41, Aviation Militaire (French Air Force), Western Front, November 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Section Technique de l'Aéronautique (STAé)
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Renault 8 Bd, 8 cylinder inline V liquid-cooled piston engine of 195 hp (145 kW)
+<b>Performance:</b>
+Maximum Speed: 95 mph (153 km/h)
+Ceiling: 18,445 feet (5,500 m)
+Endurance: 3 hours 
+Empty Weight: not documented
+Loaded Weight: 2,755 pounds (1,250 kg)
+<b>Dimensions: </b>
+Span: 43 feet 7 inches (13.27 m)
+Length: 30 feet (9,14 m)
+Height: 10 feet 10 inches (3.30 m)
+<b>Armament:</b> One fixed, forward-firing synchronized 0.303 inch (7.1 mm) Vickers machine gun mounted on the port side of forward fuselage, one 0.303 inch (7.1 mm) Lewis machine gun in flexible mount in rear cockpit, four 44 kg (20 kg) bombs (optional) 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

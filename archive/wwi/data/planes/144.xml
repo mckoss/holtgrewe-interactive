@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="144" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Junkers J 9 (D.1)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Junkers D.1 represents the pinnacle of aeronautical design achieved during World War I. At a time when virtually all aircraft were built of fabric-covered wood framing, the Junkers D.1 was of all metal construction -built with aluminum tube framing covered by a skin of stressed corrugated duralumin. The metal construction also eliminated the need for bracing wires on the D.1's wings. The clean lines and all-metal airframe afforded the aircraft great speed, strength and durability both in combat and, perhaps more importantly, in the face of the inclement weather conditions often encountered in the field -conditions which lead to the deterioration of wood and canvas. 
+
+The Junkers D.1 -initially designated J.9- was designed and manufactured by Junkers Fleugzeug-Werke, which supplied aircraft to Germany during both World Wars. Though its design began many months before, the D.1's first flight was not until April of 1918. A total of 41 D.1s were built and at least some were delivered to the front, though it is uncertain whether any saw combat before the armistice.
+
+In the spring of 1919 numbers of Junker D.1s flew combat sorties in support of the Baltic States in their armed struggle against Russian Bolshevik insurgents. Their performance proved to be outstanding. The design and construction concepts of the Junkers D.1 continue to be embraced in the fighter aircraft of today, making the little machine the direct ancestor of the generations of fighters that followed.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified squadron of the German Air Force, Flanders Sector, Western Front, October, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Junkers Flugzeug Werke AG
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One BMW IIIa, 6 cylinder inline liquid-cooled piston engine of 185 hp (138 kW) 
+<b>Performance:</b>
+Maximum Speed: 140 mph (225 km/h) 
+Ceiling: 19,685 feet (6,000 m)
+Endurance: 1 hour 30 minutes 
+Empty Weight: 1,439 pounds (653 kg)
+Loaded Weight: 1,841 pounds (835 kg)
+<b>Dimensions: </b>
+Span: 29 feet 6 inches (8.99 m) 
+Length: 23 feet 9 inches (7.24 m)
+Height: 8 feet 3 inches (2.51 m)
+<b>Armament:</b> Two fixed, forward-firing 7.9mm (0.31 inch) 08/15 Spandau machine guns 
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

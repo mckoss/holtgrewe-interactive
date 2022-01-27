@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="311" cos="Great Britain"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Royal Aircraft Factory R.E.8]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Royal Aircraft Factory (R.A.F.) R.E.8 was designed and built to address the shortcomings of its predecessor, the B.E.2c reconnaissance aircraft. Although over 2,000 B.E.2cs had been built they, suffered from poor handling characteristics and armament, which made them an easy target for enemy fighters. The new R.E.8 included a more powerful engine and much improved armament. The R.E.8 also reversed the cockpit positions -placing the pilot in the forward cockpit- this allowed the observer to act as a gunner as well. The B.E.2 had these positions reversed, which proved impractical once the necessity of defensive armament became apparent. Interestingly, however, the R.E.8 retained the inherently stable characteristics of its predecessor, which made evasive maneuvering more difficult.
+
+Like its predecessor, the R.E.8's engine had a rather unique method of cooling. Its inline piston engine was air cooled instead of having a liquid cooling system with an external radiator which was common on most inline aircraft engines of the time. A large air scoop on top of the engine compartment channeled air across the cylinders. 
+
+Production of the R.E.8 began in August of 1916 and the aircraft began equipping the Royal Flying Corps the following month. No fewer than 16 reconnaissance units eventually employed the machines. In addition to serving on the Western Front, the R.E.8 was used by two British squadrons based in Italy, two in Mesopotamia, two in Palestine and three home defense squadrons. Following its introduction into service, the R.A.F. R.E.8 quickly acquired the rhyming nickname "Harry Tate" after the British comedian. 
+
+Despite its improved armament, the R.E.8 proved to be vulnerable to German fighters which necessitated its withdrawal from reconnaissance duties over enemy territory unless accompanied by a fighter escort. As the War progressed, many R.E.8s were diverted to ground attack and bombing operations. Others became trainers. Although some R.E.8s remained in service until the end of the War in various roles, by the last year of the War they had been largely replaced by superior Sopwith 11/2 Strutter aircraft. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of No. 12 Squadron, British Royal Flying Corps, Western Front, December, 1917.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Royal Aircraft Factory
+<b>Country of Manufacture:</b> Great Britain
+<b>Power plant:</b> One R.A.F. 4a, 12 cylinder air-cooled inline V piston engine of 150 hp (120kW) 
+<b>Performance:</b>
+Maximum Speed: 103 mph (166 km/h) at 6,500 feet (1.981 m) 
+Ceiling: 13,500 feet (4,149 m)
+Endurance: 4 Hours 15 minutes 
+Empty Weight: 1,803 pounds (818 kg)
+Loaded Weight: 2,678 pounds (1,215 kg)
+<b>Dimensions: </b>
+Span: 42 feet 7 inches (12.98 m)
+Length: 27 feet 10 inches (8.48 m)
+Height: 11 feet 4 inches (3.45 m)
+<b>Armament:</b> One fixed, forward-firing synchronized 7.7mm (0.303 inch) Vickers machine guns mounted on .he forward fuselage, One or two 7.7mm (0.303 inch) Lewis machine gun in flexible mount in rear cockpit, 118 kg (260 pounds) of bombs 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

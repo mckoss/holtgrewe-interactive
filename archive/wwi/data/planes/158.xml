@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="158" cos="Germany"> 
+<type><![CDATA[Bomber]]></type>
+<plnName><![CDATA[A.E.G. C.IV N]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The A.E.G. C.IV N was developed in 1916 to meet the <i>Idflieg's</i> (the German Air Force High Command) requirement for a <i>nachtflugzeug</i> (night bomber). The <i>Idflieg</i> believed that nighttime missions would be safe from intercept missions given the inherent difficulties of air defense in the darkness of night. The German aviation firm Allgemeine Elektricitäts Gesellschaft (A.E.G.) responded to the challenge by modifying an existing reconnaissance aircraft already in its inventory –the A.E.G. C.IV. 
+
+The new night variant retained the general lines and form of the older aircraft but included a number of modifications. To accommodate the weight of a larger bomb-load, the wing span was lengthened by 7 feet 4 inches (2.24 m) and converted to a three-bay intra-wing bracing design. Triangular bracing was also added atop the center of the upper wing and the forward firing machine gun was removed (leaving only a flexible weapon in the rear cockpit). To equip the machine for night time operations, a long exhaust stack was installed to direct exhaust flames above the aircraft thus preserving the pilot’s night vision. The instrument panel was illuminated and navigation lights were installed, along with two powerful, forward-focused landing lights in the leading edge of the upper wing. Many of the machines were also painted in a dark, two-tone night camouflage with suppressed insignia devoid of the usual white border or white field surrounding the black cross. This was done to enhance their nighttime stealth. Satisfactory flight trials of the new machine took place in September of 1916 and the <i>Idflieg</i> immediately issued a production order for the new night raiders. 
+
+From October of 1917 through August of 1918 one hundred A.E.G C.IV N aircraft were deployed in nighttime bombing attacks by regular daytime bombing units of the German Air Force. The night bombers remained in operational service until the Armistice at the end of the war. In the last months of the War a small number were shifted to German flight schools where they served as two seat trainers. Following the War a few survivors also saw brief civilian use.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of an unidentified bomber unit, German Air Force, Western Front, January, 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Allgemeinen Electrizitäts Gesellschaft (A.E.G.)
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> Benz Bz III, 6 cylinder liquid cooled inline piston engine of 150 hp (112 kW) 
+<b>Performance:</b>
+Maximum Speed: 89 mph (143 km/h) at seal level 
+Ceiling: 13,100 feet (3,993 m)
+Endurance: 4 hours
+Empty Weight: 1,760 pounds (798 kg)
+Loaded Weight: 2,469 pounds (1,120 kg)
+<b>Dimensions: </b>
+Span: 50 feet (15.24 m) 
+Length: 23 feet 11 inches (7.29 m) 
+Height: 10 feet 10 inches (3.30 m)
+<b>Armament:</b> One Maxim 7.9mm (0.31 inch) IMG Parabellum machine gun in flexible mount in rear cockpit, 299 kg (660 pounds) of bombs
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

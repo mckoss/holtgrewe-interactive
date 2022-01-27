@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="230" cos="Russia"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[SPAD A.2 (SA.2)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The SPAD SA.1 and its immediate successor, the SA.2 (modeled here) presented a unique solution to the problem for early fighting aircraft of providing a clear field of forward fire. Rather than resort to the common solution of configuring the machine in a pusher configuration, the SA.1 and SA.2 instead placed the gunner's position in a nacelle mounted in front of the propeller.
+
+It is not surprising that this unique configuration was not popular with the men who flew the aircraft. Evaluations indicated that the aircraft's engine suffered from inadequate cooling and that the gunnery nacelle suffered from excessive vibration. Pilots also complained that their field of view was obstructed by the forward nacelle, and the gunners feared they would be crushed by the engine in the event of a crash.
+
+Despite its failings, nearly 100 SPAD SA.2s were built with some 57 being sent to the Imperial Russian Air Force (such as the machine modeled here). The remainder went to the Aviation Militarie. SA.2s had a brief career and by mid 1916 they were being replaced by improved machines. The unique forward gun pulpits were rendered unnecessary by the development of propeller synchronized machine guns. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents a fighter of the Imperial Russian Air Force, Eastern Front, November, 1915.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme pour l'Aviation et ses Derives (SPAD)
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Le Rhône 9J, 9 cylinder air-cooled rotary piston engine of 110 hp (82 kW)
+<b>Performance:</b>
+Maximum Speed: 87 mph (140 km/h)
+Ceiling: not documented
+Endurance: 3 hours 
+Empty Weight: 913 lbs (414 kg)
+Loaded Weight: 1,485 lbs (674 kg)
+<b>Dimensions: </b>
+Span: 31 feet 4 inches (9.55 m) 
+Length: 25 feet 9 inches (7.85 m) 
+Height: 8 feet 6 inches (2.60 m)
+<b>Armament:</b> One 0.303 inch (7.7 mm) Lewis machine gun in flexible mount in forward gun pulpit 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

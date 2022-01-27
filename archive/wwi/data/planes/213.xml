@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="213" cos="France"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Breguet Type A-G.4 (Gnôme 140 or 160 hp)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In 1912 the pioneering French aeronautical engineer, Louis Bréguet, began designing the A-G.4 -an aircraft specifically intended to serve France as a military reconnaissance platform. Bréguet's new machine included three very unique features: a machine gun positioned in the rear cockpit, which could be manually operated by an observer; protective steel armor plating around the cockpit and a four-wheeled undercarriage, which gave the machine a level horizontal stance when sitting on the ground. 
+
+The A-G.4 first flew in the summer of 1913 and began equipping units of the Aviation Militaire the following autumn, where it saw immediate service over the Western Front upon the outbreak of hostilities. At the beginning of World War I, the A-G.4 was the only aircraft in the French inventory which was not originally built for sale on the pre-war civilian market. French military leaders of the time had little confidence in the value of "flying machines" as weapons of war. They did, however, recognize their potential in the area of reconnaissance and acquired several available civilian aircraft types which they modified for use in battlefield reconnaissance.
+
+The Bréguet A-G.4 had a brief career. The machine gun and its ammunition coupled with the armor plating made the machine seriously over weight. This, in turn, adversely impacted its operational ceiling, speed and maneuverability. When faster and more agile German and Austro-Hungarian fighters armed with machine guns began appearing over the Western Front in the autumn of 1915, unacceptable losses forced the withdrawal of the A-G.4 in favor of faster and more capable reconnaissance aircraft. A few A-G.4s labored on as trainers after their retirement from front line service, their machine guns and armor plating having been removed. Although its operational contribution to the Allied War effort was marginal due to its brevity, the Bréguet A-G.4 is historically noteworthy as the first aircraft to see action during wartime while being both armed with a machine gun and protected by armor plating.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of the Aviation Militaire (French Air Force), Western Front, August, 1914.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Ateliers d'Aviation, Louis Bréguet
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Gnôme, 9 cylinder air-cooled rotary piston engine of 160 hp (119 kW) 
+<b>Performance:</b>
+Maximum Speed: 62 mph (100 km/h) 
+Ceiling: 4,290 feet (1,500 m)
+Range/Endurance: not documented
+Empty Weight: 2,970 lbs (1,350 kg)
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 50 feet 4 inches (15.35 m)
+Length: 27 feet 1 inch (8.25 m)
+Height: 10 feet 10 inches (3.30 m)
+<b>Armament:</b> One 0.303 inch (7.7 mm) Lewis machine gun on flexible mount in rear cockpit 
+<b>Crew:</b>2]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

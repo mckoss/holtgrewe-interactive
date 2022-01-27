@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="100" cos="Austria-Hungary">    
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Fokker B.III Light Observation Biplane]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[As the dominance of the Fokker monoplanes began to wane in the face of new and improved machines, Anthony Fokker instructed designer, Martin Kreutzer to begin work on a biplane fighter. One of the designs Kreutzer developed was the M.17E. While the German military showed little interest in The Fokker M.17, a number of the biplanes were sold to Austria-Hungary, which re-designated the aircraft, the B.III.
+
+The B.III was constructed of canvas-covered wood framing except for a metal cowling about its rotary engine. The small aircraft employed wing warping for lateral control and the vast majority of the machines were unarmed. Some evidence indicates that at least one B.III (modeled here) was equipped with a machine gun, though there are conflicting reports as to the weapon's placement and type.
+
+Most B.IIIs were employed as reconnaissance scouts or trainers, though the prototype for this model was reportedly flown on the Eastern Front as a fighter by Oberleutnant, Plus Moosbrugger. World War I historical records are otherwise silent about Moosbrugger's combat exploits, or lack thereof.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Flik (Squadron) 11, Luftfahrtruppe (Austro-Hungarian Air Force), Eastern Front, June, 1916.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Fokker Aeroplanbau GmbH
+<b>Country of Manufacture:</b> Germany<br /><b>Power plant:</b> One Oberursel, 7 cylinder air-cooled rotary piston engine of 80 hp (60 kW)<br /><b>Performance:</b>
+Maximum Speed: 83 mph (134 km/h)
+Ceiling: undocumented
+Endurance: 2 hours 15 minutes
+Empty Weight: 602 pounds (273 kg)
+Loaded Weight: undocumented
+<b>Dimensions: </b>
+Span: 23 feet 8 inches (7.21 m)
+Length: 20 feet 4 inches (6.20 m)
+Height: 8 feet 4 inches (2.54 m)
+<b>Armament:</b> One fixed forward firing synchronized 8.00mm (.314 inch) Bergmann LMG 15nA machine gun.<b/r>
+<b>Crew:</b>1<br/>
+<br />]]>
+</technicalSpecs>
+
+
+</holtPlane>

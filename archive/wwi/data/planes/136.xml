@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="136" cos="Germany"> 
+<type><![CDATA[Fighter]]></type>
+<plnName><![CDATA[Fokker D.VIII (E.V)]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[In April of 1918, the German High Command held a competition to select a new single-seat fighter. German firm, Fokker Aeroplanbau GmbH submitted a modified version of Reinhold Platz's prototype, the E.V as their entry. The High Command selected Fokker's parasol-winged monoplane to enter production, and ordered 400 of the fighters. 
+
+The first E.Vs joined the fighter squadron, Jagdstaffel 6 on the Western Front during the last week of July in 1918. Unfortunately, these initial units were plagued with structural problems. The machines' cantilevered wings began breaking up in midair, resulting in pilot deaths. All Fokker E.Vs were grounded on August 24, 1918, and a panel of inquiry was formed. Two theories for the wing failure developed. One suggested that extra reinforcement added to the wings reduced their flexibility and caused them to fracture under stress. The other suggested that, after the wing spars were attached, the joints were smoothed down too far, weakening the attachment points.
+
+To address these problems, the wings of the existing machines were retrofitted, and changes were instituted in the manufacturing of new aircraft. The aircraft was re-designated the Fokker D.VIII and returned to combat just 3 weeks prior to the armistice. Given its brief career, the D.VIII achieved few combat victories. 
+
+Following the war, the terms of the Treaty of Versailles denied these planes to Germany. At least two became a part of the newly created Polish Air Force and saw action against the Bolshevik Red Army. Other of these aircraft were evaluated and deployed by France, Canada, and the Netherlands. Single aircraft were tested, but never used, by Italy and the United States.]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Jagdstaffel (squadron) 8, Western Front, November 1918.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Fokker Aeroplanbau GmbH
+<b>Country of Manufacture:</b> Germany
+<b>Power plant:</b> One Oberursel UR.II, 9 cylinder air-cooled rotary piston engine of 110 hp (82 kW) 
+<b>Performance:</b>
+Maximum Speed: 115 mph (185 km/h) 
+Ceiling: 20,670 feet (6300 m)
+Endurance: 1 hours, 30 minutes 
+Empty Weight: 848 pounds (384 kg)
+Loaded Weight: 1238 pounds (562 kg)
+<b>Dimensions: </b>
+Span: 27 feet 7 inches (8.40 m)
+Length: 19 feet 4 inches (5.89 m)
+Height: 8 feet 6 inches (2.59 m)
+<b>Armament:</b> Two fixed, forward-firing synchronized 7.92mm (.312 inches) LMG 08/15 machine guns
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+

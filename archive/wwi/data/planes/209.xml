@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<holtPlane>
+<mainInfo id="209" cos="France"> 
+<type><![CDATA[Reconnaissance Aircraft]]></type>
+<plnName><![CDATA[Nieuport VI]]></plnName>
+</mainInfo>
+<history>
+<![CDATA[The Nieuport VI, modeled here, was one of the first aircraft deployed in war. The VI was, however, originally designed and built for civilian purposes. French aviation company, Société Anonyme des Établissements Nieuport, hoped to sell the new machine to wealthy sportsmen, smitten by the flying craze which swept Europe after the Wright brothers successful flight. First flown in late 1910, the VI was a shoulder-winged monoplane which employed wing-warping for lateral control. This arrangement required extensive wire cables on the upper and lower surfaces of its wing. It had a relatively clean, aerodynamic contour for its time and was constructed of wood framing with a fabric covering -except for sheet metal about the engine and forward fuselage. 
+
+On June 21, 1911, Nieuport sponsored a promotional air show in an effort to boost weak sales of the aircraft. During the show, the VI set a new world speed record of 83 mph (134 km/h). Sales of the VI soared and the aircraft became very popular on the civilian scene. The Nieuport's record-setting flight also drew the attention of the French military. Leaders recognized the potential value of a fast aircraft, which could fly over enemy territory and report on positions and troop movements. With this in mind, the Aviation Militaire purchased a number VI aircraft. No significant modifications were required for their military service and all of the VIs were placed into a single reconnaissance escadrille. When World War I broke out in August of 1914 the escadrille was immediately placed into operation on the Western Front. 
+
+The VIs were as successful in their military role as they had been when flown for sport. However, they had very brief careers. By the autumn of 1915 new German fighter aircraft, which were faster than the VIs, appeared over the Western Front. Worse, the new fighters were equipped with synchronized machine guns. The unarmed VIs were totally outclassed and by late 1915 had all been withdrawn from French service. The VI kept flying somewhat longer with two of France's allies -Italy and Russia. Both countries continued to deploy the aircraft until early 1916 when they too retired their VIs. ]]>
+</history>
+<deployment>
+<![CDATA[This model represents an aircraft of Reconnaissance Escadrille No. 12, Aviation Militaire (French Air Force), Western Front, August, 1914.]]>
+</deployment>
+<technicalSpecs>
+<![CDATA[<b>Manufacturer:</b> Société Anonyme des Établissements Nieuport
+<b>Country of Manufacture:</b> France
+<b>Power plant:</b> One Gnôme Monosoupape, 9 cylinder air cooled rotary piston engine of 80 hp (60 kW)
+<b>Performance:</b>
+Maximum Speed: 83 mph (134 km/h) 
+Ceiling: not documented
+Endurance: 3 hours
+Empty Weight: 1,080 pounds (490 kg)
+Loaded Weight: not documented
+<b>Dimensions: </b>
+Span: 36 feet (10.97 m)
+Length: 26 feet (7.92 m) 
+Height: 8 feet 6 inches (2.59 m)
+<b>Armament:</b> none
+<b>Crew:</b>1]]>
+</technicalSpecs>
+
+
+</holtPlane>
+
